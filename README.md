@@ -1,4 +1,4 @@
-# Papers
+# Publications
 
 My published papers.
 
