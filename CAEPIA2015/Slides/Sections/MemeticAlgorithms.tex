@@ -1,0 +1,78 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Authors: A. Herrera-Poyatos, F. Herrera
+% Tittle: Algoritmo memético equilibrado con diversificación voraz
+% 							 CAEPIA 2015
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Algoritmos meméticos}
+
+	\subsection*{Fundamentos}
+
+	\begin{frame}{Hibridación entre algoritmos genéticos y búsquedas locales}
+
+		\begin{columns}[c]
+
+			\column{.3\textwidth}
+
+%				\begin{backgroundblock}{10mm}{10mm}
+				\fontsize{6}{8}\selectfont
+				\begin{tikzpicture}[
+					every node/.style={circle,inner sep=0.5pt, text width=1.2cm, align=center, node distance=1.2cm}]
+
+					\node [fill=blue!20] (bl) {Búsqueda local};
+					\node [fill=blue!60, above = of $(bl)$] (ag) {Algoritmo \\ genético};
+					\node [fill=blue!40, right= 1.2cm of {$(ag)!0.5!(bl)$}] (am) {Algoritmo memético};
+					
+					\draw [->, >=stealth', line width=0.5mm] (bl) -- (am);
+					\draw [->, >=stealth', line width=0.5mm] (ag) -- (am);
+									
+				\end{tikzpicture}
+%				\end{backgroundblock}
+				
+			\column{.6\textwidth}
+			
+				\kern 3mm
+
+				\fontsize{7}{9}\selectfont
+
+				\begin{tcolorbox}[colback=blue!5,colframe=blue!30]
+
+					\textbf{Formas de aplicar la búsqueda local:}
+					
+					\begin{itemize}
+						\item A toda la población.
+						\item \color{blue} \textbf{Al mejor cromosoma de la población \\ no mejorado previamente.}
+					\end{itemize}
+				\end{tcolorbox}
+
+		\end{columns}
+			
+		\centering
+		\fontsize{8}{8}\selectfont
+		\textbf{Ejemplo: Algoritmo memético generacional con elitismo}
+
+		\kern 2mm
+
+		\fontsize{6}{8}\selectfont
+		\begin{tikzpicture}[
+			every node/.style={circle, inner sep=0pt, text width=1.3cm, align=center, node distance=1.5cm}]
+			
+			\node [fill=blue!10] (i) {Inicializar $P$};
+			\node [fill=blue!25, right = of $(i)$] (s) {Selección por torneo};
+			\node [fill=blue!55, right = 3cm of $(s)$] (bl) {Búsqueda local};
+			\node [fill=blue!40, above = 0.2cm of {$(s)!0.5!(bl)$}] (c) {Cruce y mutación};
+			\node [fill=blue!70, below = 0.2cm of {$(s)!0.5!(bl)$}] (e) {Elitismo};
+			
+			\path[every node/.style={font=\sffamily\small}]
+			(i) edge [->, >=stealth', line width=0.5mm] node {} (s)
+			(s) edge [->, >=stealth', line width=0.5mm] node {} (c)
+			(c) edge [->, >=stealth', line width=0.5mm] node {} (bl);
+			
+			\path[every node/.style={font=\sffamily\small}]
+			(bl) edge [->, >=stealth', line width=0.5mm] node {} (e);
+			
+			\path[every node/.style={font=\sffamily\small}]
+			(e) edge [->, >=stealth', line width=0.5mm] node {} (s);				
+		\end{tikzpicture}			
+	\end{frame}
+

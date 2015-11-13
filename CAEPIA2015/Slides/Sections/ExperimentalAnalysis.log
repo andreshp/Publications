@@ -1,0 +1,2338 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2015.7.7)  8 NOV 2015 20:23
+entering extended mode
+ \write18 enabled.
+ %&-line parsing enabled.
+**ExperimentalAnalysis.tex
+(./ExperimentalAnalysis.tex
+LaTeX2e <2014/05/01>
+Babel <3.9l> and hyphenation patterns for 79 languages loaded.
+! Undefined control sequence.
+l.7 \section
+            {An√°lisis experimental}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 \section{A
+              n√°lisis experimental}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no A in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no √ in font nullfont!
+Missing character: There is no ° in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 7--8
+[]
+ []
+
+! Undefined control sequence.
+l.9 	\subsection
+                {Tama√±o de la poblaci√≥n}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 	\subsection{T
+                  ama√±o de la poblaci√≥n}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no T in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no √ in font nullfont!
+Missing character: There is no ± in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no √ in font nullfont!
+Missing character: There is no ≥ in font nullfont!
+Missing character: There is no n in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 9--10
+[]
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 ...{frame}{Tama√±o de la poblaci√≥n de AMEDV}
+                                                  
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no T in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no √ in font nullfont!
+Missing character: There is no ± in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no √ in font nullfont!
+Missing character: There is no ≥ in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no A in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no E in font nullfont!
+Missing character: There is no D in font nullfont!
+Missing character: There is no V in font nullfont!
+
+! LaTeX Error: Environment columns undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 			\begin{columns}
+                       [c]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Undefined control sequence.
+l.15 				\column
+                {.7\textwidth}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   }
+l.15 				\column{.7\textwidth}
+                              
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   }
+l.15 				\column{.7\textwidth}
+                              
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+
+! LaTeX Error: Environment table undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.16 				\begin{table}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 19.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 19.
+! Undefined control sequence.
+l.20 						\toprule
+                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no √ in font cmbx6!
+Missing character: There is no ì in font cmbx6!
+! Undefined control sequence.
+<recently read> \midrule 
+                         
+l.22 						\midrule
+                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<recently read> \cmidrule 
+                          
+l.24 						\cmidrule
+                    {3-6}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<recently read> \midrule 
+                         
+l.43 						\midrule
+                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<recently read> \cmidrule 
+                          
+l.45 						\cmidrule
+                    [0.3mm]{3-6}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: \begin{frame} on input line 11 ended by \end{table}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.47 				\end{table}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Undefined control sequence.
+l.48 				\column
+                {0.35\textwidth}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   }
+l.48 				\column{0.35\textwidth}
+                                
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   }
+l.48 				\column{0.35\textwidth}
+                                
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+Missing character: There is no √ in font cmbx8!
+Missing character: There is no ≥ in font cmbx8!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 11--52
+[][]
+ []
+
+
+Overfull \hbox (7.49991pt too wide) in paragraph at lines 11--52
+\OT1/cmr/m/n/6 [c]
+ []
+
+
+Overfull \hbox (5.7777pt too wide) in paragraph at lines 11--52
+\OT1/cmr/m/n/6 .7
+ []
+
+
+Overfull \hbox (169.05905pt too wide) in paragraph at lines 11--52
+[][]
+ []
+
+
+Overfull \hbox (13.11092pt too wide) in paragraph at lines 11--52
+\OT1/cmr/m/n/6 0.35
+ []
+
+
+Overfull \hbox (14.86124pt too wide) in paragraph at lines 11--52
+\OT1/cmr/bx/n/8 Ex-
+ []
+
+
+Overfull \hbox (17.52237pt too wide) in paragraph at lines 11--52
+\OT1/cmr/bx/n/8 per-
+ []
+
+
+Overfull \hbox (5.98894pt too wide) in paragraph at lines 11--52
+\OT1/cmr/bx/n/8 i-
+ []
+
+
+Overfull \hbox (38.92531pt too wide) in paragraph at lines 11--52
+\OT1/cmr/bx/n/8 mentacin
+ []
+
+
+Overfull \hbox (12.03232pt too wide) in paragraph at lines 11--52
+\OT1/cmr/bx/n/8 so-
+ []
+
+
+Overfull \hbox (13.98344pt too wide) in paragraph at lines 11--52
+\OT1/cmr/bx/n/8 bre
+ []
+
+
+Overfull \hbox (7.21117pt too wide) in paragraph at lines 11--52
+\OT1/cmr/bx/n/8 el
+ []
+
+
+Overfull \hbox (23.10574pt too wide) in paragraph at lines 11--52
+\OT1/cmr/bx/n/8 prob-
+ []
+
+
+Overfull \hbox (20.14183pt too wide) in paragraph at lines 11--52
+\OT1/cmr/bx/n/8 lema
+ []
+
+
+Overfull \hbox (12.65565pt too wide) in paragraph at lines 11--52
+\OT1/cmr/bx/n/8 del
+ []
+
+
+Overfull \hbox (11.16121pt too wide) in paragraph at lines 11--52
+\OT1/cmr/bx/n/8 vi-
+ []
+
+
+Overfull \hbox (8.03062pt too wide) in paragraph at lines 11--52
+\OT1/cmr/bx/n/8 a-
+ []
+
+
+Overfull \hbox (21.23073pt too wide) in paragraph at lines 11--52
+\OT1/cmr/bx/n/8 jante
+ []
+
+
+Overfull \hbox (9.93341pt too wide) in paragraph at lines 11--52
+\OT1/cmr/bx/n/8 de
+ []
+
+
+Overfull \hbox (20.68906pt too wide) in paragraph at lines 11--52
+\OT1/cmr/bx/n/8 com-
+ []
+
+
+Overfull \hbox (11.80565pt too wide) in paragraph at lines 11--52
+\OT1/cmr/bx/n/8 er-
+ []
+
+
+Overfull \hbox (14.70012pt too wide) in paragraph at lines 11--52
+\OT1/cmr/bx/n/8 cio. 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.55 				\textbf{Componentes:}
+                              
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (76.13432pt too wide) in paragraph at lines 55--56
+[]\OT1/cmr/bx/n/7 Componentes: 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.58 				\begin{itemize}
+                        
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 58--58
+[] 
+ []
+
+
+Overfull \hbox (35.19495pt too wide) in paragraph at lines 59--60
+\OT1/cmr/m/n/8 Operador
+ []
+
+
+Overfull \hbox (8.50012pt too wide) in paragraph at lines 59--60
+\OT1/cmr/m/n/8 de
+ []
+
+
+Overfull \hbox (21.72948pt too wide) in paragraph at lines 59--60
+\OT1/cmr/m/n/8 cruce:
+ []
+
+
+Overfull \hbox (12.74185pt too wide) in paragraph at lines 59--60
+\OT1/cmr/m/n/8 OX 
+ []
+
+Missing character: There is no √ in font cmr8!
+Missing character: There is no ∫ in font cmr8!
+
+Overfull \hbox (31.32823pt too wide) in paragraph at lines 60--61
+\OT1/cmr/m/n/8 Bsqueda
+ []
+
+
+Overfull \hbox (9.44458pt too wide) in paragraph at lines 60--61
+\OT1/cmr/m/n/8 lo-
+ []
+
+
+Overfull \hbox (12.75018pt too wide) in paragraph at lines 60--61
+\OT1/cmr/m/n/8 cal:
+ []
+
+
+Overfull \hbox (15.22522pt too wide) in paragraph at lines 60--61
+\OT1/cmr/m/n/8 Lin-
+ []
+
+
+Overfull \hbox (38.72139pt too wide) in paragraph at lines 60--61
+\OT1/cmr/m/n/8 Kernighan 
+ []
+
+Missing character: There is no √ in font cmbx7!
+Missing character: There is no ≥ in font cmbx7!
+
+Overfull \hbox (50.2895pt too wide) in paragraph at lines 66--67
+[]\OT1/cmr/bx/n/7 Tiempo
+ []
+
+
+Overfull \hbox (9.1743pt too wide) in paragraph at lines 66--67
+\OT1/cmr/bx/n/7 de
+ []
+
+
+Overfull \hbox (14.12221pt too wide) in paragraph at lines 66--67
+\OT1/cmr/bx/n/7 eje-
+ []
+
+
+Overfull \hbox (23.20544pt too wide) in paragraph at lines 66--67
+\OT1/cmr/bx/n/7 cucin: 
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 69.
+
+Overfull \hbox (38.45996pt too wide) in paragraph at lines 69--70
+[]$\OT1/cmr/m/n/8 0\OML/cmm/m/it/8 :\OT1/cmr/m/n/8 1\OML/cmm/m/it/8 N$
+ []
+
+
+Overfull \hbox (9.96404pt too wide) in paragraph at lines 69--70
+\OT1/cmr/m/n/8 se-
+ []
+
+
+Overfull \hbox (16.52802pt too wide) in paragraph at lines 69--70
+\OT1/cmr/m/n/8 gun-
+ []
+
+
+Overfull \hbox (14.68633pt too wide) in paragraph at lines 69--70
+\OT1/cmr/m/n/8 dos. 
+ []
+
+
+Overfull \hbox (44.62773pt too wide) in paragraph at lines 74--75
+[]\OT1/cmr/bx/n/7 Media
+ []
+
+
+Overfull \hbox (9.1743pt too wide) in paragraph at lines 74--75
+\OT1/cmr/bx/n/7 de
+ []
+
+
+Overfull \hbox (9.0611pt too wide) in paragraph at lines 74--75
+\OT1/cmr/bx/n/7 30
+ []
+
+
+Overfull \hbox (14.12221pt too wide) in paragraph at lines 74--75
+\OT1/cmr/bx/n/7 eje-
+ []
+
+
+Overfull \hbox (12.09996pt too wide) in paragraph at lines 74--75
+\OT1/cmr/bx/n/7 cu-
+ []
+
+
+Overfull \hbox (26.40726pt too wide) in paragraph at lines 74--75
+\OT1/cmr/bx/n/7 ciones. 
+ []
+
+
+! LaTeX Error: Environment tcolorbox undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.79 				\begin{tcolorbox}
+                          [colback=blue!5,colframe=blue!30]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Undefined control sequence.
+l.80 					\color
+                {blue!80}\textbf{Mejor tama√±o de la \\ poblaci√≥n: 16}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no √ in font cmbx8!
+Missing character: There is no ± in font cmbx8!
+Missing character: There is no √ in font cmbx8!
+Missing character: There is no ≥ in font cmbx8!
+
+! LaTeX Error: \begin{frame} on input line 11 ended by \end{tcolorbox}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.81 				\end{tcolorbox}
+                        
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (147.74489pt too wide) in paragraph at lines 79--82
+[]\OT1/cmr/m/n/8 [colback=blue!5,colframe=blue!30]
+ []
+
+
+Overfull \hbox (52.15057pt too wide) in paragraph at lines 79--82
+\OT1/cmr/m/n/8 blue!80\OT1/cmr/bx/n/8 Mejor
+ []
+
+
+Overfull \hbox (26.40578pt too wide) in paragraph at lines 79--82
+\OT1/cmr/bx/n/8 tamao
+ []
+
+
+Overfull \hbox (9.93341pt too wide) in paragraph at lines 79--82
+\OT1/cmr/bx/n/8 de
+ []
+
+
+Overfull \hbox (7.48618pt too wide) in paragraph at lines 79--82
+\OT1/cmr/bx/n/8 la 
+ []
+
+
+Overfull \hbox (38.79199pt too wide) in paragraph at lines 79--82
+\OT1/cmr/bx/n/8 poblacin:
+ []
+
+
+Overfull \hbox (9.80008pt too wide) in paragraph at lines 79--82
+\OT1/cmr/bx/n/8 16
+ []
+
+
+! LaTeX Error: \begin{frame} on input line 11 ended by \end{columns}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.83 			\end{columns}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Undefined control sequence.
+l.86 	\subsection
+                 {AMEDV vs AGEDV}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.86 	\subsection{A
+                   MEDV vs AGEDV}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no A in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no E in font nullfont!
+Missing character: There is no D in font nullfont!
+Missing character: There is no V in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no A in font nullfont!
+Missing character: There is no G in font nullfont!
+Missing character: There is no E in font nullfont!
+Missing character: There is no D in font nullfont!
+Missing character: There is no V in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 86--87
+[]
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.88 ...n{frame}{Comparaci√≥n entre AMEDV y AGEDV}
+                                                  
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no C in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no √ in font nullfont!
+Missing character: There is no ≥ in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no A in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no E in font nullfont!
+Missing character: There is no D in font nullfont!
+Missing character: There is no V in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no A in font nullfont!
+Missing character: There is no G in font nullfont!
+Missing character: There is no E in font nullfont!
+Missing character: There is no D in font nullfont!
+Missing character: There is no V in font nullfont!
+
+! LaTeX Error: Environment columns undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.91 			\begin{columns}
+                       [c]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Undefined control sequence.
+l.92 				\column
+                {.7\textwidth}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   }
+l.92 				\column{.7\textwidth}
+                              
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   }
+l.92 				\column{.7\textwidth}
+                              
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+
+! LaTeX Error: Environment table undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.93 				\begin{table}
+                      [H]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Undefined control sequence.
+l.97 		        		\toprule
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no √ in font cmbx6!
+Missing character: There is no ì in font cmbx6!
+! Undefined control sequence.
+<recently read> \midrule 
+                         
+l.99 		        		\midrule
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<recently read> \cmidrule 
+                          
+l.101 		        		\cmidrule
+                           {3-4} \cmidrule{5-6}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.101 		        		\cmidrule{3-4} \cmidrule
+                                          {5-6}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<recently read> \bottomrule 
+                            
+l.120 		        		\bottomrule
+                             
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: \begin{frame} on input line 88 ended by \end{table}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.122 				\end{table}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 88--123
+[][]
+ []
+
+
+Overfull \hbox (7.49991pt too wide) in paragraph at lines 88--123
+\OT1/cmr/m/n/6 [c]
+ []
+
+
+Overfull \hbox (5.7777pt too wide) in paragraph at lines 88--123
+\OT1/cmr/m/n/6 .7
+ []
+
+
+Overfull \hbox (9.59988pt too wide) in paragraph at lines 88--123
+\OT1/cmr/m/n/6 [H]
+ []
+
+
+Overfull \hbox (190.71706pt too wide) in paragraph at lines 88--123
+[][]
+ []
+
+! Undefined control sequence.
+l.124 				\column
+                 {0.35\textwidth}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.124 				\column{0
+                   .35\textwidth}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   }
+l.124 				\column{0.35\textwidth}
+                                 
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   }
+l.124 				\column{0.35\textwidth}
+                                 
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+
+Overfull \hbox (33.11092pt too wide) in paragraph at lines 124--126
+[]\OT1/cmr/m/n/6 0.35 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.127 				\textbf{Tama√±o de poblaci√≥n}
+                                        
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no √ in font cmbx8!
+Missing character: There is no ± in font cmbx8!
+Missing character: There is no √ in font cmbx8!
+Missing character: There is no ≥ in font cmbx8!
+
+Overfull \hbox (48.59468pt too wide) in paragraph at lines 127--128
+[]\OT1/cmr/bx/n/8 Tamao
+ []
+
+
+Overfull \hbox (9.93341pt too wide) in paragraph at lines 127--128
+\OT1/cmr/bx/n/8 de
+ []
+
+
+Overfull \hbox (36.06975pt too wide) in paragraph at lines 127--128
+\OT1/cmr/bx/n/8 poblacin 
+ []
+
+
+Overfull \hbox (34.91162pt too wide) in paragraph at lines 129--130
+\OT1/cmr/m/n/8 AMEDV:
+ []
+
+
+Overfull \hbox (8.50012pt too wide) in paragraph at lines 129--130
+\OT1/cmr/m/n/8 16 
+ []
+
+
+Overfull \hbox (33.56021pt too wide) in paragraph at lines 130--131
+\OT1/cmr/m/n/8 AGEDV:
+ []
+
+
+Overfull \hbox (8.50012pt too wide) in paragraph at lines 130--131
+\OT1/cmr/m/n/8 64 
+ []
+
+
+! LaTeX Error: Environment tcolorbox undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.136 				\begin{tcolorbox}
+                           [colback=blue!5,colframe=blue!30]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Undefined control sequence.
+l.137 					\color
+                 {blue!80} \textbf{AMEDV eval√∫a entre 10 y 100 veces menos ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no √ in font cmbx7!
+Missing character: There is no ∫ in font cmbx7!
+
+! LaTeX Error: \begin{frame} on input line 88 ended by \end{tcolorbox}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.138 				\end{tcolorbox}
+                         
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (140.13252pt too wide) in paragraph at lines 136--139
+[]\OT1/cmr/m/n/7 [colback=blue!5,colframe=blue!30]
+ []
+
+
+Overfull \hbox (24.889pt too wide) in paragraph at lines 136--139
+\OT1/cmr/m/n/7 blue!80
+ []
+
+
+Overfull \hbox (34.61385pt too wide) in paragraph at lines 136--139
+\OT1/cmr/bx/n/7 AMEDV
+ []
+
+
+Overfull \hbox (19.78258pt too wide) in paragraph at lines 136--139
+\OT1/cmr/bx/n/7 evala
+ []
+
+
+Overfull \hbox (12.21318pt too wide) in paragraph at lines 136--139
+\OT1/cmr/bx/n/7 en-
+ []
+
+
+Overfull \hbox (11.42429pt too wide) in paragraph at lines 136--139
+\OT1/cmr/bx/n/7 tre
+ []
+
+
+Overfull \hbox (9.0611pt too wide) in paragraph at lines 136--139
+\OT1/cmr/bx/n/7 10
+ []
+
+
+Overfull \hbox (4.77916pt too wide) in paragraph at lines 136--139
+\OT1/cmr/bx/n/7 y
+ []
+
+
+Overfull \hbox (13.59164pt too wide) in paragraph at lines 136--139
+\OT1/cmr/bx/n/7 100
+ []
+
+
+Overfull \hbox (11.71596pt too wide) in paragraph at lines 136--139
+\OT1/cmr/bx/n/7 ve-
+ []
+
+
+Overfull \hbox (11.76566pt too wide) in paragraph at lines 136--139
+\OT1/cmr/bx/n/7 ces
+ []
+
+
+Overfull \hbox (24.80453pt too wide) in paragraph at lines 136--139
+\OT1/cmr/bx/n/7 menos
+ []
+
+
+Overfull \hbox (18.72466pt too wide) in paragraph at lines 136--139
+\OT1/cmr/bx/n/7 solu-
+ []
+
+
+Overfull \hbox (23.86562pt too wide) in paragraph at lines 136--139
+\OT1/cmr/bx/n/7 ciones
+ []
+
+
+Overfull \hbox (13.95346pt too wide) in paragraph at lines 136--139
+\OT1/cmr/bx/n/7 que
+ []
+
+
+Overfull \hbox (35.48186pt too wide) in paragraph at lines 136--139
+\OT1/cmr/bx/n/7 AGEDV.
+ []
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.139 
+      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+! Undefined control sequence.
+<write> \newlabel{table:tp}{{}{\thepage 
+                                        }}
+l.139 
+      
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+\newlabel{table:tp}{{}{}}
+! Undefined control sequence.
+<write> \newlabel{table:agedv}{{}{\thepage 
+                                           }}
+l.139 
+      
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+\newlabel{table:agedv}{{}{}}
+]
+
+! LaTeX Error: \begin{frame} on input line 88 ended by \end{columns}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.140 			\end{columns}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Undefined control sequence.
+l.144 	\subsection
+                  {Comparaci√≥n con el estado del arte}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.144 	\subsection{C
+                    omparaci√≥n con el estado del arte}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no C in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no √ in font nullfont!
+Missing character: There is no ≥ in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 144--145
+[]
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.146 ... heur√≠sticas basadas en b√∫squeda local}
+                                                  
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no √ in font cmr12!
+Missing character: There is no ≥ in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no ≠ in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no ∫ in font cmr12!
+
+! LaTeX Error: Environment columns undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.149 			\begin{columns}
+                        [c]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Undefined control sequence.
+l.150 				\column
+                 {.7\textwidth}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   }
+l.150 				\column{.7\textwidth}
+                               
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   }
+l.150 				\column{.7\textwidth}
+                               
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+
+! LaTeX Error: Environment table undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.151 				\begin{table}
+                       [H]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Undefined control sequence.
+l.155 						\toprule
+                    
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no √ in font cmbx6!
+Missing character: There is no ì in font cmbx6!
+! Undefined control sequence.
+<recently read> \midrule 
+                         
+l.157 						\midrule
+                    
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<recently read> \cmidrule 
+                          
+l.159 						\cmidrule
+                     {3-6}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<recently read> \bottomrule 
+                            
+l.178 						\bottomrule
+                       
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: \begin{frame} on input line 146 ended by \end{table}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.180 				\end{table}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (380.79875pt too wide) in paragraph at lines 146--181
+[][]
+ []
+
+
+Overfull \hbox (7.49991pt too wide) in paragraph at lines 146--181
+\OT1/cmr/m/n/6 [c]
+ []
+
+
+Overfull \hbox (5.7777pt too wide) in paragraph at lines 146--181
+\OT1/cmr/m/n/6 .7
+ []
+
+
+Overfull \hbox (9.59988pt too wide) in paragraph at lines 146--181
+\OT1/cmr/m/n/6 [H]
+ []
+
+
+Overfull \hbox (157.91624pt too wide) in paragraph at lines 146--181
+[][]
+ []
+
+! Undefined control sequence.
+l.183 				\column
+                 {0.35\textwidth}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.183 				\column{0
+                   .35\textwidth}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   }
+l.183 				\column{0.35\textwidth}
+                                 
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   }
+l.183 				\column{0.35\textwidth}
+                                 
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+
+Overfull \hbox (33.11092pt too wide) in paragraph at lines 183--185
+[]\OT1/cmr/m/n/6 0.35 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.186 				\textbf{Tama√±o de poblaci√≥n}
+                                        
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no √ in font cmbx8!
+Missing character: There is no ± in font cmbx8!
+Missing character: There is no √ in font cmbx8!
+Missing character: There is no ≥ in font cmbx8!
+
+Overfull \hbox (48.59468pt too wide) in paragraph at lines 186--187
+[]\OT1/cmr/bx/n/8 Tamao
+ []
+
+
+Overfull \hbox (9.93341pt too wide) in paragraph at lines 186--187
+\OT1/cmr/bx/n/8 de
+ []
+
+
+Overfull \hbox (36.06975pt too wide) in paragraph at lines 186--187
+\OT1/cmr/bx/n/8 poblacin 
+ []
+
+
+Overfull \hbox (34.91162pt too wide) in paragraph at lines 188--189
+\OT1/cmr/m/n/8 AMEDV:
+ []
+
+
+Overfull \hbox (8.50012pt too wide) in paragraph at lines 188--189
+\OT1/cmr/m/n/8 16 
+ []
+
+
+Overfull \hbox (16.51135pt too wide) in paragraph at lines 189--190
+\OT1/cmr/m/n/8 AM:
+ []
+
+
+Overfull \hbox (8.50012pt too wide) in paragraph at lines 189--190
+\OT1/cmr/m/n/8 64 
+ []
+
+
+! LaTeX Error: Environment tcolorbox undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.195 				\begin{tcolorbox}
+                           [colback=blue!5,colframe=blue!30]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Undefined control sequence.
+l.196 					\color
+                 {blue!80} \textbf{AMEDV combina lo mejor de los tres modelo...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: \begin{frame} on input line 146 ended by \end{tcolorbox}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.197 				\end{tcolorbox}
+                         
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (130.69307pt too wide) in paragraph at lines 195--198
+[]\OT1/cmr/m/n/6 [colback=blue!5,colframe=blue!30]
+ []
+
+
+Overfull \hbox (22.94415pt too wide) in paragraph at lines 195--198
+\OT1/cmr/m/n/6 blue!80
+ []
+
+
+Overfull \hbox (31.54979pt too wide) in paragraph at lines 195--198
+\OT1/cmr/bx/n/6 AMEDV
+ []
+
+
+Overfull \hbox (17.54434pt too wide) in paragraph at lines 195--198
+\OT1/cmr/bx/n/6 com-
+ []
+
+
+Overfull \hbox (15.6318pt too wide) in paragraph at lines 195--198
+\OT1/cmr/bx/n/6 bina
+ []
+
+
+Overfull \hbox (6.52219pt too wide) in paragraph at lines 195--198
+\OT1/cmr/bx/n/6 lo
+ []
+
+
+Overfull \hbox (20.83879pt too wide) in paragraph at lines 195--198
+\OT1/cmr/bx/n/6 mejor
+ []
+
+
+Overfull \hbox (8.41522pt too wide) in paragraph at lines 195--198
+\OT1/cmr/bx/n/6 de
+ []
+
+
+Overfull \hbox (9.82826pt too wide) in paragraph at lines 195--198
+\OT1/cmr/bx/n/6 los
+ []
+
+
+Overfull \hbox (13.79768pt too wide) in paragraph at lines 195--198
+\OT1/cmr/bx/n/6 tres
+ []
+
+
+Overfull \hbox (18.66933pt too wide) in paragraph at lines 195--198
+\OT1/cmr/bx/n/6 mod-
+ []
+
+
+Overfull \hbox (6.61525pt too wide) in paragraph at lines 195--198
+\OT1/cmr/bx/n/6 e-
+ []
+
+
+Overfull \hbox (12.18936pt too wide) in paragraph at lines 195--198
+\OT1/cmr/bx/n/6 los: 
+ []
+
+
+Overfull \hbox (32.41699pt too wide) in paragraph at lines 195--198
+\OT1/cmr/bx/n/6 Esquema
+ []
+
+
+Overfull \hbox (14.9374pt too wide) in paragraph at lines 195--198
+\OT1/cmr/bx/n/6 evo-
+ []
+
+
+Overfull \hbox (9.78326pt too wide) in paragraph at lines 195--198
+\OT1/cmr/bx/n/6 lu-
+ []
+
+
+Overfull \hbox (13.94432pt too wide) in paragraph at lines 195--198
+\OT1/cmr/bx/n/6 tivo
+ []
+
+
+Overfull \hbox (6.41107pt too wide) in paragraph at lines 195--198
+\OT1/cmr/bx/n/6 + 
+ []
+
+
+Overfull \hbox (37.6989pt too wide) in paragraph at lines 195--198
+\OT1/cmr/bx/n/6 Soluciones
+ []
+
+
+Overfull \hbox (11.13324pt too wide) in paragraph at lines 195--198
+\OT1/cmr/bx/n/6 vo-
+ []
+
+
+Overfull \hbox (20.65736pt too wide) in paragraph at lines 195--198
+\OT1/cmr/bx/n/6 races.
+ []
+
+
+! LaTeX Error: Environment tcolorbox undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.199 				\begin{tcolorbox}
+                           [colback=blue!5,colframe=blue!30]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Undefined control sequence.
+l.200 					\color
+                 {blue!80} \textbf{AMEDV es el √∫nico modelo que alcanza el ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no √ in font cmbx6!
+Missing character: There is no ∫ in font cmbx6!
+Missing character: There is no √ in font cmbx6!
+Missing character: There is no ≥ in font cmbx6!
+
+! LaTeX Error: \begin{frame} on input line 146 ended by \end{tcolorbox}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.201 				\end{tcolorbox}
+                         
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: \begin{frame} on input line 146 ended by \end{columns}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.202 			\end{columns}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (130.69307pt too wide) in paragraph at lines 199--203
+[]\OT1/cmr/m/n/6 [colback=blue!5,colframe=blue!30]
+ []
+
+
+Overfull \hbox (22.94415pt too wide) in paragraph at lines 199--203
+\OT1/cmr/m/n/6 blue!80
+ []
+
+
+Overfull \hbox (31.54979pt too wide) in paragraph at lines 199--203
+\OT1/cmr/bx/n/6 AMEDV
+ []
+
+
+Overfull \hbox (7.11023pt too wide) in paragraph at lines 199--203
+\OT1/cmr/bx/n/6 es
+ []
+
+
+Overfull \hbox (6.16525pt too wide) in paragraph at lines 199--203
+\OT1/cmr/bx/n/6 el
+ []
+
+
+Overfull \hbox (14.84435pt too wide) in paragraph at lines 199--203
+\OT1/cmr/bx/n/6 nico
+ []
+
+
+Overfull \hbox (18.66933pt too wide) in paragraph at lines 199--203
+\OT1/cmr/bx/n/6 mod-
+ []
+
+
+Overfull \hbox (10.32634pt too wide) in paragraph at lines 199--203
+\OT1/cmr/bx/n/6 elo
+ []
+
+
+Overfull \hbox (12.8013pt too wide) in paragraph at lines 199--203
+\OT1/cmr/bx/n/6 que
+ []
+
+
+Overfull \hbox (9.22076pt too wide) in paragraph at lines 199--203
+\OT1/cmr/bx/n/6 al-
+ []
+
+
+Overfull \hbox (20.13039pt too wide) in paragraph at lines 199--203
+\OT1/cmr/bx/n/6 canza
+ []
+
+
+Overfull \hbox (6.16525pt too wide) in paragraph at lines 199--203
+\OT1/cmr/bx/n/6 el
+ []
+
+
+Overfull \hbox (21.2554pt too wide) in paragraph at lines 199--203
+\OT1/cmr/bx/n/6 ptimo
+ []
+
+
+Overfull \hbox (12.48325pt too wide) in paragraph at lines 199--203
+\OT1/cmr/bx/n/6 con
+ []
+
+
+Overfull \hbox (36.93079pt too wide) in paragraph at lines 199--203
+\OT1/cmr/bx/n/6 asiduidad.
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.206 ... heur√≠sticas basadas en b√∫squeda local}
+                                                  
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no √ in font cmr12!
+Missing character: There is no ≥ in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no ≠ in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no ∫ in font cmr12!
+
+! LaTeX Error: Environment columns undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.209 			\begin{columns}
+                        [c]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Undefined control sequence.
+l.210 				\column
+                 {.7\textwidth}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   }
+l.210 				\column{.7\textwidth}
+                               
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   }
+l.210 				\column{.7\textwidth}
+                               
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+
+! LaTeX Error: Environment table undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.211 		        \begin{table}
+                             [H]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Undefined control sequence.
+l.215 		        		\toprule
+                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no √ in font cmbx6!
+Missing character: There is no ∫ in font cmbx6!
+Missing character: There is no √ in font cmbx6!
+Missing character: There is no ∫ in font cmbx6!
+Missing character: There is no √ in font cmbx6!
+Missing character: There is no ∫ in font cmbx6!
+! Undefined control sequence.
+<recently read> \midrule 
+                         
+l.218 		        		\midrule
+                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<recently read> \cmidrule 
+                          
+l.220 		        		\cmidrule
+                           {2-5} \cmidrule{6-7}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.220 		        		\cmidrule{2-5} \cmidrule
+                                          {6-7}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<recently read> \bottomrule 
+                            
+l.239 		        		\bottomrule
+                             
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: \begin{frame} on input line 206 ended by \end{table}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.241 		        \end{table}
+                           
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Undefined control sequence.
+l.242 				\column
+                 {0.35\textwidth}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   }
+l.242 				\column{0.35\textwidth}
+                                 
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   }
+l.242 				\column{0.35\textwidth}
+                                 
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+
+Overfull \hbox (380.79875pt too wide) in paragraph at lines 206--243
+[][]
+ []
+
+
+Overfull \hbox (7.49991pt too wide) in paragraph at lines 206--243
+\OT1/cmr/m/n/6 [c]
+ []
+
+
+Overfull \hbox (5.7777pt too wide) in paragraph at lines 206--243
+\OT1/cmr/m/n/6 .7
+ []
+
+
+Overfull \hbox (9.59988pt too wide) in paragraph at lines 206--243
+\OT1/cmr/m/n/6 [H]
+ []
+
+
+Overfull \hbox (232.44943pt too wide) in paragraph at lines 206--243
+[][]
+ []
+
+
+Overfull \hbox (13.11092pt too wide) in paragraph at lines 206--243
+\OT1/cmr/m/n/6 0.35 
+ []
+
+
+! LaTeX Error: Environment tcolorbox undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.247 				\begin{tcolorbox}
+                           [colback=blue!5,colframe=blue!30]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.247 				\begin{tcolorbox}[
+                            colback=blue!5,colframe=blue!30]
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+l.248 					\color
+                 {blue!80} \textbf{AM y AMEDV llaman m√°s veces a la b√∫sque...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no √ in font cmbx6!
+Missing character: There is no ° in font cmbx6!
+Missing character: There is no √ in font cmbx6!
+Missing character: There is no ∫ in font cmbx6!
+Missing character: There is no √ in font cmbx6!
+Missing character: There is no ≥ in font cmbx6!
+Missing character: There is no √ in font cmbx6!
+Missing character: There is no ≥ in font cmbx6!
+
+! LaTeX Error: \begin{frame} on input line 206 ended by \end{tcolorbox}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.249 				\end{tcolorbox}
+                         
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (130.69307pt too wide) in paragraph at lines 247--250
+[]\OT1/cmr/m/n/6 [colback=blue!5,colframe=blue!30]
+ []
+
+
+Overfull \hbox (22.94415pt too wide) in paragraph at lines 247--250
+\OT1/cmr/m/n/6 blue!80
+ []
+
+
+Overfull \hbox (13.91101pt too wide) in paragraph at lines 247--250
+\OT1/cmr/bx/n/6 AM
+ []
+
+
+Overfull \hbox (4.38608pt too wide) in paragraph at lines 247--250
+\OT1/cmr/bx/n/6 y
+ []
+
+
+Overfull \hbox (31.54979pt too wide) in paragraph at lines 247--250
+\OT1/cmr/bx/n/6 AMEDV
+ []
+
+
+Overfull \hbox (11.58186pt too wide) in paragraph at lines 247--250
+\OT1/cmr/bx/n/6 lla-
+ []
+
+
+Overfull \hbox (15.5207pt too wide) in paragraph at lines 247--250
+\OT1/cmr/bx/n/6 man
+ []
+
+
+Overfull \hbox (10.16714pt too wide) in paragraph at lines 247--250
+\OT1/cmr/bx/n/6 ms
+ []
+
+
+Overfull \hbox (10.7763pt too wide) in paragraph at lines 247--250
+\OT1/cmr/bx/n/6 ve-
+ []
+
+
+Overfull \hbox (10.82132pt too wide) in paragraph at lines 247--250
+\OT1/cmr/bx/n/6 ces
+ []
+
+
+Overfull \hbox (4.04857pt too wide) in paragraph at lines 247--250
+\OT1/cmr/bx/n/6 a
+ []
+
+
+Overfull \hbox (6.40967pt too wide) in paragraph at lines 247--250
+\OT1/cmr/bx/n/6 la
+ []
+
+
+Overfull \hbox (29.37808pt too wide) in paragraph at lines 247--250
+\OT1/cmr/bx/n/6 bsqueda
+ []
+
+
+Overfull \hbox (9.33328pt too wide) in paragraph at lines 247--250
+\OT1/cmr/bx/n/6 lo-
+ []
+
+
+Overfull \hbox (10.12076pt too wide) in paragraph at lines 247--250
+\OT1/cmr/bx/n/6 cal
+ []
+
+
+Overfull \hbox (14.44713pt too wide) in paragraph at lines 247--250
+\OT1/cmr/bx/n/6 gra-
+ []
+
+
+Overfull \hbox (13.42683pt too wide) in paragraph at lines 247--250
+\OT1/cmr/bx/n/6 cias
+ []
+
+
+Overfull \hbox (4.04857pt too wide) in paragraph at lines 247--250
+\OT1/cmr/bx/n/6 a
+ []
+
+
+Overfull \hbox (6.40967pt too wide) in paragraph at lines 247--250
+\OT1/cmr/bx/n/6 la
+ []
+
+
+Overfull \hbox (21.90956pt too wide) in paragraph at lines 247--250
+\OT1/cmr/bx/n/6 evolu-
+ []
+
+
+Overfull \hbox (10.68326pt too wide) in paragraph at lines 247--250
+\OT1/cmr/bx/n/6 cin
+ []
+
+
+Overfull \hbox (8.41522pt too wide) in paragraph at lines 247--250
+\OT1/cmr/bx/n/6 de
+ []
+
+
+Overfull \hbox (6.40967pt too wide) in paragraph at lines 247--250
+\OT1/cmr/bx/n/6 la
+ []
+
+
+Overfull \hbox (33.06226pt too wide) in paragraph at lines 247--250
+\OT1/cmr/bx/n/6 poblacin.
+ []
+
+
+! LaTeX Error: Environment tcolorbox undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.251 				\begin{tcolorbox}
+                           [colback=blue!5,colframe=blue!30]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.251 				\begin{tcolorbox}[
+                            colback=blue!5,colframe=blue!30]
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+l.252 					\color
+                 {blue!80} \textbf{El operador de cruce introduce soluciones...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no √ in font cmbx6!
+Missing character: There is no ≥ in font cmbx6!
+Missing character: There is no √ in font cmbx6!
+Missing character: There is no ≥ in font cmbx6!
+
+! LaTeX Error: \begin{frame} on input line 206 ended by \end{tcolorbox}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.253 				\end{tcolorbox}
+                         
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: \begin{frame} on input line 206 ended by \end{columns}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.254 			\end{columns}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (130.69307pt too wide) in paragraph at lines 251--255
+[]\OT1/cmr/m/n/6 [colback=blue!5,colframe=blue!30]
+ []
+
+
+Overfull \hbox (22.94415pt too wide) in paragraph at lines 251--255
+\OT1/cmr/m/n/6 blue!80
+ []
+
+
+Overfull \hbox (7.76108pt too wide) in paragraph at lines 251--255
+\OT1/cmr/bx/n/6 El
+ []
+
+
+Overfull \hbox (11.58325pt too wide) in paragraph at lines 251--255
+\OT1/cmr/bx/n/6 op-
+ []
+
+
+Overfull \hbox (10.04163pt too wide) in paragraph at lines 251--255
+\OT1/cmr/bx/n/6 er-
+ []
+
+
+Overfull \hbox (16.2471pt too wide) in paragraph at lines 251--255
+\OT1/cmr/bx/n/6 ador
+ []
+
+
+Overfull \hbox (8.41522pt too wide) in paragraph at lines 251--255
+\OT1/cmr/bx/n/6 de
+ []
+
+
+Overfull \hbox (19.26378pt too wide) in paragraph at lines 251--255
+\OT1/cmr/bx/n/6 cruce
+ []
+
+
+Overfull \hbox (9.78326pt too wide) in paragraph at lines 251--255
+\OT1/cmr/bx/n/6 in-
+ []
+
+
+Overfull \hbox (13.65964pt too wide) in paragraph at lines 251--255
+\OT1/cmr/bx/n/6 tro-
+ []
+
+
+Overfull \hbox (16.73738pt too wide) in paragraph at lines 251--255
+\OT1/cmr/bx/n/6 duce
+ []
+
+
+Overfull \hbox (17.25043pt too wide) in paragraph at lines 251--255
+\OT1/cmr/bx/n/6 solu-
+ []
+
+
+Overfull \hbox (21.95457pt too wide) in paragraph at lines 251--255
+\OT1/cmr/bx/n/6 ciones
+ []
+
+
+Overfull \hbox (8.41522pt too wide) in paragraph at lines 251--255
+\OT1/cmr/bx/n/6 en
+ []
+
+
+Overfull \hbox (6.40967pt too wide) in paragraph at lines 251--255
+\OT1/cmr/bx/n/6 la
+ []
+
+
+Overfull \hbox (30.70116pt too wide) in paragraph at lines 251--255
+\OT1/cmr/bx/n/6 poblacin
+ []
+
+
+Overfull \hbox (8.41522pt too wide) in paragraph at lines 251--255
+\OT1/cmr/bx/n/6 de
+ []
+
+
+Overfull \hbox (31.54979pt too wide) in paragraph at lines 251--255
+\OT1/cmr/bx/n/6 AMEDV
+ []
+
+
+Overfull \hbox (4.04857pt too wide) in paragraph at lines 251--255
+\OT1/cmr/bx/n/6 a
+ []
+
+
+Overfull \hbox (11.45132pt too wide) in paragraph at lines 251--255
+\OT1/cmr/bx/n/6 pe-
+ []
+
+
+Overfull \hbox (10.78102pt too wide) in paragraph at lines 251--255
+\OT1/cmr/bx/n/6 sar
+ []
+
+
+Overfull \hbox (8.41522pt too wide) in paragraph at lines 251--255
+\OT1/cmr/bx/n/6 de
+ []
+
+
+Overfull \hbox (6.40967pt too wide) in paragraph at lines 251--255
+\OT1/cmr/bx/n/6 la
+ []
+
+
+Overfull \hbox (17.54434pt too wide) in paragraph at lines 251--255
+\OT1/cmr/bx/n/6 com-
+ []
+
+
+Overfull \hbox (24.94566pt too wide) in paragraph at lines 251--255
+\OT1/cmr/bx/n/6 peticin
+ []
+
+
+Overfull \hbox (11.22632pt too wide) in paragraph at lines 251--255
+\OT1/cmr/bx/n/6 en-
+ []
+
+
+Overfull \hbox (10.49161pt too wide) in paragraph at lines 251--255
+\OT1/cmr/bx/n/6 tre
+ []
+
+
+Overfull \hbox (23.80731pt too wide) in paragraph at lines 251--255
+\OT1/cmr/bx/n/6 padres
+ []
+
+
+Overfull \hbox (3.80415pt too wide) in paragraph at lines 251--255
+\OT1/cmr/bx/n/6 e
+ []
+
+
+Overfull \hbox (9.78326pt too wide) in paragraph at lines 251--255
+\OT1/cmr/bx/n/6 hi-
+ []
+
+
+Overfull \hbox (12.41437pt too wide) in paragraph at lines 251--255
+\OT1/cmr/bx/n/6 jos.
+ []
+
+)
+! Emergency stop.
+<*> ExperimentalAnalysis.tex
+                            
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 45 strings out of 493105
+ 582 string characters out of 6137073
+ 69508 words of memory out of 5000000
+ 3598 multiletter control sequences out of 15000+600000
+ 6692 words of font info for 24 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 19i,9n,12p,192b,201s stack positions out of 5000i,500n,10000p,200000b,80000s
+!  ==> Fatal error occurred, no output PDF file produced!

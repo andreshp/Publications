@@ -1,0 +1,2621 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2015.7.7)  8 NOV 2015 13:28
+entering extended mode
+ \write18 enabled.
+ %&-line parsing enabled.
+**Motivation.tex
+(./Motivation.tex
+LaTeX2e <2014/05/01>
+Babel <3.9l> and hyphenation patterns for 79 languages loaded.
+! Undefined control sequence.
+l.7 \section
+            {Motivaci√≥n}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 \section{M
+              otivaci√≥n}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no M in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no √ in font nullfont!
+Missing character: There is no ≥ in font nullfont!
+Missing character: There is no n in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 7--8
+[] 
+ []
+
+! Undefined control sequence.
+l.11 	\setbeamertemplate
+                        {headline}{
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 	\setbeamertemplate{h
+                          eadline}{
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+
+! LaTeX Error: Environment beamercolorbox undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.12 		\begin{beamercolorbox}
+                             [sep=4pt]{title}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Missing character: There is no [ in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ] in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+! Undefined control sequence.
+l.13 			\usebeamerfont
+                      {title} Motivaci√≥n: Problema de la diversidad de la p...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no √ in font nullfont!
+Missing character: There is no ≥ in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no : in font nullfont!
+Missing character: There is no P in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no √ in font nullfont!
+Missing character: There is no ≥ in font nullfont!
+Missing character: There is no n in font nullfont!
+
+! LaTeX Error: \begin{document} ended by \end{beamercolorbox}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 		\end{beamercolorbox}
+                           
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 11--16
+[]
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.21 	\begin{frame}{}
+                     
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 21--22
+[][] 
+ []
+
+
+! LaTeX Error: Environment definition undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.26 		\begin{definition}
+                         
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.27 			L
+         a \textbf{diversidad de la poblaci√≥n} se define como la media de l...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no √ in font cmbx9!
+Missing character: There is no ≥ in font cmbx9!
+
+! LaTeX Error: Environment gather* undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.28 			\begin{gather*}
+                       
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.29 ...= \frac{\sum_{s,s' \in P} d(s,s')}{n(n-1)}
+                                                  
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 29.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 29.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 29.
+! Missing $ inserted.
+<inserted text> 
+                $
+l.29 ...= \frac{\sum_{s,s' \in P} d(s,s')}{n(n-1)}
+                                                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.29 ...= \frac{\sum_{s,s' \in P} d(s,s')}{n(n-1)}
+                                                  
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+\frac #1#2->{\begingroup #1\endgroup \over #2}
+                                              
+l.29 ...= \frac{\sum_{s,s' \in P} d(s,s')}{n(n-1)}
+                                                  
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+
+! LaTeX Error: \begin{frame} on input line 21 ended by \end{gather*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.30 			\end{gather*}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.30 			\end{gather*}
+                     
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.30 			\end{gather*}
+                     
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+! LaTeX Error: \begin{frame} on input line 21 ended by \end{definition}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.31 		\end{definition}
+                       
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (30.40547pt too wide) in paragraph at lines 27--32
+[]\OT1/cmr/m/n/9 La
+ []
+
+
+Overfull \hbox (12.42484pt too wide) in paragraph at lines 27--32
+\OT1/cmr/bx/n/9 di-
+ []
+
+
+Overfull \hbox (18.15466pt too wide) in paragraph at lines 27--32
+\OT1/cmr/bx/n/9 ver-
+ []
+
+
+Overfull \hbox (10.70905pt too wide) in paragraph at lines 27--32
+\OT1/cmr/bx/n/9 si-
+ []
+
+
+Overfull \hbox (17.01016pt too wide) in paragraph at lines 27--32
+\OT1/cmr/bx/n/9 dad
+ []
+
+
+Overfull \hbox (10.80333pt too wide) in paragraph at lines 27--32
+\OT1/cmr/bx/n/9 de
+ []
+
+
+Overfull \hbox (8.1353pt too wide) in paragraph at lines 27--32
+\OT1/cmr/bx/n/9 la
+ []
+
+
+Overfull \hbox (39.19739pt too wide) in paragraph at lines 27--32
+\OT1/cmr/bx/n/9 poblacin
+ []
+
+
+Overfull \hbox (7.76314pt too wide) in paragraph at lines 27--32
+\OT1/cmr/m/n/9 se
+ []
+
+
+Overfull \hbox (12.33672pt too wide) in paragraph at lines 27--32
+\OT1/cmr/m/n/9 de-
+ []
+
+
+Overfull \hbox (14.39226pt too wide) in paragraph at lines 27--32
+\OT1/cmr/m/n/9 fine
+ []
+
+
+Overfull \hbox (21.0693pt too wide) in paragraph at lines 27--32
+\OT1/cmr/m/n/9 como
+ []
+
+
+Overfull \hbox (7.1944pt too wide) in paragraph at lines 27--32
+\OT1/cmr/m/n/9 la
+ []
+
+
+Overfull \hbox (14.90614pt too wide) in paragraph at lines 27--32
+\OT1/cmr/m/n/9 me-
+ []
+
+
+Overfull \hbox (12.33325pt too wide) in paragraph at lines 27--32
+\OT1/cmr/m/n/9 dia
+ []
+
+
+Overfull \hbox (9.2534pt too wide) in paragraph at lines 27--32
+\OT1/cmr/m/n/9 de
+ []
+
+
+Overfull \hbox (10.84299pt too wide) in paragraph at lines 27--32
+\OT1/cmr/m/n/9 las
+ []
+
+
+Overfull \hbox (14.44019pt too wide) in paragraph at lines 27--32
+\OT1/cmr/m/n/9 dis-
+ []
+
+
+Overfull \hbox (16.44434pt too wide) in paragraph at lines 27--32
+\OT1/cmr/m/n/9 tan-
+ []
+
+
+Overfull \hbox (14.95407pt too wide) in paragraph at lines 27--32
+\OT1/cmr/m/n/9 cias
+ []
+
+
+Overfull \hbox (12.33672pt too wide) in paragraph at lines 27--32
+\OT1/cmr/m/n/9 en-
+ []
+
+
+Overfull \hbox (11.32977pt too wide) in paragraph at lines 27--32
+\OT1/cmr/m/n/9 tre
+ []
+
+
+Overfull \hbox (11.30548pt too wide) in paragraph at lines 27--32
+\OT1/cmr/m/n/9 to-
+ []
+
+
+Overfull \hbox (13.41241pt too wide) in paragraph at lines 27--32
+\OT1/cmr/m/n/9 das
+ []
+
+
+Overfull \hbox (10.84299pt too wide) in paragraph at lines 27--32
+\OT1/cmr/m/n/9 las
+ []
+
+
+Overfull \hbox (20.57971pt too wide) in paragraph at lines 27--32
+\OT1/cmr/m/n/9 pare-
+ []
+
+
+Overfull \hbox (11.09993pt too wide) in paragraph at lines 27--32
+\OT1/cmr/m/n/9 jas
+ []
+
+
+Overfull \hbox (9.2534pt too wide) in paragraph at lines 27--32
+\OT1/cmr/m/n/9 de
+ []
+
+
+Overfull \hbox (15.4374pt too wide) in paragraph at lines 27--32
+\OT1/cmr/m/n/9 cro-
+ []
+
+
+Overfull \hbox (15.41656pt too wide) in paragraph at lines 27--32
+\OT1/cmr/m/n/9 mo-
+ []
+
+
+Overfull \hbox (11.35687pt too wide) in paragraph at lines 27--32
+\OT1/cmr/m/n/9 so-
+ []
+
+
+Overfull \hbox (18.55127pt too wide) in paragraph at lines 27--32
+\OT1/cmr/m/n/9 mas.
+ []
+
+
+Overfull \hbox (20.554pt too wide) in paragraph at lines 27--32
+\OT1/cmr/m/n/9 D(P)
+ []
+
+
+Overfull \hbox (7.1944pt too wide) in paragraph at lines 27--32
+\OT1/cmr/m/n/9 =
+ []
+
+
+Overfull \hbox (89.51448pt too wide) in paragraph at lines 27--32
+[][] \OML/cmm/m/it/9 d\OT1/cmr/m/n/9 (\OML/cmm/m/it/9 s; s[]\OT1/cmr/m/n/9 )$$[
+]$
+ []
+
+
+! LaTeX Error: Environment columns undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.33 		\begin{columns}
+                      [c]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.33 		\begin{columns}[
+                       c]
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (29.24994pt too wide) in paragraph at lines 33--34
+[]\OT1/cmr/m/n/9 [c] 
+ []
+
+! Undefined control sequence.
+l.35 			\column
+               {.6\textwidth}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.35 			\column{.
+                 6\textwidth}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   }
+l.35 			\column{.6\textwidth}
+                             
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   }
+l.35 			\column{.6\textwidth}
+                             
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+
+Overfull \hbox (27.1944pt too wide) in paragraph at lines 35--36
+[]\OT1/cmr/m/n/9 .6 
+ []
+
+! Undefined control sequence.
+l.37 				\centering \includegraphics
+                                    [width=7cm]{./Images/Diversity/AG/png/be...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.37 				\centering \includegraphics[
+                                     width=7cm]{./Images/Diversity/AG/png/be...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (221.0575pt too wide) in paragraph at lines 37--38
+ []\OT1/cmr/m/n/9 [width=7cm]./Images/Diversity/AG/png/berlin52.png 
+ []
+
+! Undefined control sequence.
+l.39 			\column
+               {.4\textwidth}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.39 			\column{.
+                 4\textwidth}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   }
+l.39 			\column{.4\textwidth}
+                             
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   }
+l.39 			\column{.4\textwidth}
+                             
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+
+Overfull \hbox (7.1944pt too wide) in paragraph at lines 39--40
+ []\OT1/cmr/m/n/9 .4 
+ []
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <8.5> not available
+(Font)              size <8> substituted on input line 42.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.43 ...i√≥n de un algoritmo gen√©tico est√°ndar.}
+                                                  
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <8.5> not available
+(Font)              size <8> substituted on input line 43.
+
+Missing character: There is no √ in font cmbx8!
+Missing character: There is no ≥ in font cmbx8!
+Missing character: There is no √ in font cmbx8!
+Missing character: There is no © in font cmbx8!
+Missing character: There is no √ in font cmbx8!
+Missing character: There is no ° in font cmbx8!
+
+Overfull \hbox (45.90204pt too wide) in paragraph at lines 43--44
+ []\OT1/cmr/bx/n/8 Diversidad 
+ []
+
+
+Overfull \hbox (9.93341pt too wide) in paragraph at lines 43--44
+ \OT1/cmr/bx/n/8 en 
+ []
+
+
+Overfull \hbox (7.48618pt too wide) in paragraph at lines 43--44
+ \OT1/cmr/bx/n/8 la 
+ []
+
+
+Overfull \hbox (36.06975pt too wide) in paragraph at lines 43--44
+ \OT1/cmr/bx/n/8 poblacin 
+ []
+
+
+Overfull \hbox (9.93341pt too wide) in paragraph at lines 43--44
+ \OT1/cmr/bx/n/8 de 
+ []
+
+
+Overfull \hbox (10.88898pt too wide) in paragraph at lines 43--44
+ \OT1/cmr/bx/n/8 un 
+ []
+
+
+Overfull \hbox (10.75287pt too wide) in paragraph at lines 43--44
+ \OT1/cmr/bx/n/8 al- 
+ []
+
+
+Overfull \hbox (13.06677pt too wide) in paragraph at lines 43--44
+ \OT1/cmr/bx/n/8 go- 
+ []
+
+
+Overfull \hbox (23.65019pt too wide) in paragraph at lines 43--44
+ \OT1/cmr/bx/n/8 ritmo 
+ []
+
+
+Overfull \hbox (18.10014pt too wide) in paragraph at lines 43--44
+ \OT1/cmr/bx/n/8 gen- 
+ []
+
+
+Overfull \hbox (15.78902pt too wide) in paragraph at lines 43--44
+ \OT1/cmr/bx/n/8 tico 
+ []
+
+
+Overfull \hbox (11.6212pt too wide) in paragraph at lines 43--44
+ \OT1/cmr/bx/n/8 es- 
+ []
+
+
+Overfull \hbox (7.07784pt too wide) in paragraph at lines 43--44
+ \OT1/cmr/bx/n/8 t- 
+ []
+
+
+Overfull \hbox (22.42519pt too wide) in paragraph at lines 43--44
+ \OT1/cmr/bx/n/8 ndar. 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.46 				\begin{itemize}
+                        
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 47.
+
+Overfull \hbox (4.37366pt too wide) in paragraph at lines 47--48
+\OML/cmm/m/it/8 d$
+ []
+
+
+Overfull \hbox (7.13066pt too wide) in paragraph at lines 47--48
+\OT1/cmr/m/n/8 es
+ []
+
+
+Overfull \hbox (13.69464pt too wide) in paragraph at lines 47--48
+\OT1/cmr/m/n/8 una
+ []
+
+
+Overfull \hbox (13.69464pt too wide) in paragraph at lines 47--48
+\OT1/cmr/m/n/8 me-
+ []
+
+
+Overfull \hbox (16.05579pt too wide) in paragraph at lines 47--48
+\OT1/cmr/m/n/8 dida
+ []
+
+
+Overfull \hbox (8.50012pt too wide) in paragraph at lines 47--48
+\OT1/cmr/m/n/8 de
+ []
+
+
+Overfull \hbox (13.26964pt too wide) in paragraph at lines 47--48
+\OT1/cmr/m/n/8 dis-
+ []
+
+
+Overfull \hbox (15.11133pt too wide) in paragraph at lines 47--48
+\OT1/cmr/m/n/8 tan-
+ []
+
+
+Overfull \hbox (10.38904pt too wide) in paragraph at lines 47--48
+\OT1/cmr/m/n/8 cia
+ []
+
+
+Overfull \hbox (16.53496pt too wide) in paragraph at lines 47--48
+\OT1/cmr/m/n/8 para
+ []
+
+
+Overfull \hbox (14.17381pt too wide) in paragraph at lines 47--48
+\OT1/cmr/m/n/8 cro-
+ []
+
+
+Overfull \hbox (14.16687pt too wide) in paragraph at lines 47--48
+\OT1/cmr/m/n/8 mo-
+ []
+
+
+Overfull \hbox (10.43626pt too wide) in paragraph at lines 47--48
+\OT1/cmr/m/n/8 so-
+ []
+
+
+Overfull \hbox (17.04747pt too wide) in paragraph at lines 47--48
+\OT1/cmr/m/n/8 mas. 
+ []
+
+
+Overfull \hbox (29.36261pt too wide) in paragraph at lines 48--50
+\OML/cmm/m/it/8 D\OT1/cmr/m/n/8 (\OML/cmm/m/it/8 P\OT1/cmr/m/n/8 ) \OMS/cmsy/m/
+n/8 ^^Y
+ []
+
+
+Overfull \hbox (24.55591pt too wide) in paragraph at lines 48--50
+\OT1/cmr/m/n/8 0  \OMS/cmsy/m/n/8 ([])
+ []
+
+
+Overfull \hbox (12.51407pt too wide) in paragraph at lines 48--50
+\OT1/cmr/m/n/8 To-
+ []
+
+
+Overfull \hbox (12.32518pt too wide) in paragraph at lines 48--50
+\OT1/cmr/m/n/8 dos
+ []
+
+
+Overfull \hbox (9.96404pt too wide) in paragraph at lines 48--50
+\OT1/cmr/m/n/8 los
+ []
+
+
+Overfull \hbox (14.17381pt too wide) in paragraph at lines 48--50
+\OT1/cmr/m/n/8 cro-
+ []
+
+
+Overfull \hbox (14.16687pt too wide) in paragraph at lines 48--50
+\OT1/cmr/m/n/8 mo-
+ []
+
+
+Overfull \hbox (10.43626pt too wide) in paragraph at lines 48--50
+\OT1/cmr/m/n/8 so-
+ []
+
+
+Overfull \hbox (14.68633pt too wide) in paragraph at lines 48--50
+\OT1/cmr/m/n/8 mas
+ []
+
+
+Overfull \hbox (12.32518pt too wide) in paragraph at lines 48--50
+\OT1/cmr/m/n/8 son
+ []
+
+
+Overfull \hbox (27.43651pt too wide) in paragraph at lines 48--50
+\OT1/cmr/m/n/8 iguales. 
+ []
+
+
+! LaTeX Error: \begin{frame} on input line 21 ended by \end{columns}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.52 		\end{columns}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Undefined control sequence.
+l.60 	\setbeamertemplate
+                        {headline}{
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.60 	\setbeamertemplate{h
+                          eadline}{
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+
+! LaTeX Error: Environment beamercolorbox undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.61 		\begin{beamercolorbox}
+                             [sep=10pt]{title}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Missing character: There is no [ in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ] in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 60--63
+ [] 
+ []
+
+! Undefined control sequence.
+l.64 			\usebeamerfont
+                      {title} Motivaci√≥n: Propuesta en MAEB2015.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.64 			\usebeamerfont{t
+                        itle} Motivaci√≥n: Propuesta en MAEB2015.
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no √ in font nullfont!
+Missing character: There is no ≥ in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no : in font nullfont!
+Missing character: There is no P in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no A in font nullfont!
+Missing character: There is no E in font nullfont!
+Missing character: There is no B in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no . in font nullfont!
+! Undefined control sequence.
+l.68 			\color
+              {red} Algoritmo Gen√©tico Equilibrado con Diversificaci√≥n Voraz
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.68 			\color{r
+                ed} Algoritmo Gen√©tico Equilibrado con Diversificaci√≥n Voraz
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no A in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no G in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no √ in font nullfont!
+Missing character: There is no © in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no E in font nullfont!
+Missing character: There is no q in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no D in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no √ in font nullfont!
+Missing character: There is no ≥ in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no V in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no z in font nullfont!
+
+! LaTeX Error: \begin{document} ended by \end{beamercolorbox}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.69 		\end{beamercolorbox}
+                           
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.72 	\begin{frame}{}
+                     
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 72--73
+[][] 
+ []
+
+
+! LaTeX Error: Environment columns undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.77 		\begin{columns}
+                      [c]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.77 		\begin{columns}[
+                       c]
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (29.24994pt too wide) in paragraph at lines 77--78
+[]\OT1/cmr/m/n/9 [c] 
+ []
+
+! Undefined control sequence.
+l.79 			\column
+               {.6\textwidth}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.79 			\column{.
+                 6\textwidth}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   }
+l.79 			\column{.6\textwidth}
+                             
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   }
+l.79 			\column{.6\textwidth}
+                             
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+
+Overfull \hbox (27.1944pt too wide) in paragraph at lines 79--80
+[]\OT1/cmr/m/n/9 .6 
+ []
+
+! Undefined control sequence.
+l.82 			\centering \includegraphics
+                                   [width=7cm]{./Images/Diversity/AGEDV/png/...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.82 			\centering \includegraphics[
+                                    width=7cm]{./Images/Diversity/AGEDV/png/...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (241.0962pt too wide) in paragraph at lines 82--83
+ []\OT1/cmr/m/n/9 [width=7cm]./Images/Diversity/AGEDV/png/berlin52.png 
+ []
+
+! Undefined control sequence.
+l.84 			\column
+               {.4\textwidth}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.84 			\column{.
+                 4\textwidth}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   }
+l.84 			\column{.4\textwidth}
+                             
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   }
+l.84 			\column{.4\textwidth}
+                             
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+
+Overfull \hbox (7.1944pt too wide) in paragraph at lines 84--85
+ []\OT1/cmr/m/n/9 .4 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.88 			\begin{center}
+                      
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no √ in font cmbx9!
+Missing character: There is no ≥ in font cmbx9!
+
+Overfull \hbox (49.89189pt too wide) in paragraph at lines 89--90
+ \OT1/cmr/bx/n/9 Diversidad 
+ []
+
+
+Overfull \hbox (10.80333pt too wide) in paragraph at lines 89--90
+ \OT1/cmr/bx/n/9 en 
+ []
+
+
+Overfull \hbox (8.1353pt too wide) in paragraph at lines 89--90
+ \OT1/cmr/bx/n/9 la 
+ []
+
+
+Overfull \hbox (39.19739pt too wide) in paragraph at lines 89--90
+ \OT1/cmr/bx/n/9 poblacin 
+ []
+
+
+Overfull \hbox (13.76163pt too wide) in paragraph at lines 89--90
+ \OT1/cmr/bx/n/9 del 
+ []
+
+
+Overfull \hbox (41.9564pt too wide) in paragraph at lines 89--90
+ \OT1/cmr/bx/n/9 AGEDV. 
+ []
+
+Missing character: There is no √ in font cmr8!
+Missing character: There is no ≥ in font cmr8!
+! Undefined control sequence.
+l.96 ...ci√≥n de la diversidad mediante la {\color
+                                                  {red}diversificaci√≥n voraz}.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no √ in font cmr8!
+Missing character: There is no ≥ in font cmr8!
+
+Overfull \hbox (42.4395pt too wide) in paragraph at lines 96--97
+\OT1/cmr/m/n/8 Preservacin
+ []
+
+
+Overfull \hbox (8.50012pt too wide) in paragraph at lines 96--97
+\OT1/cmr/m/n/8 de
+ []
+
+
+Overfull \hbox (6.6112pt too wide) in paragraph at lines 96--97
+\OT1/cmr/m/n/8 la
+ []
+
+
+Overfull \hbox (9.91681pt too wide) in paragraph at lines 96--97
+\OT1/cmr/m/n/8 di-
+ []
+
+
+Overfull \hbox (14.17381pt too wide) in paragraph at lines 96--97
+\OT1/cmr/m/n/8 ver-
+ []
+
+
+Overfull \hbox (8.54735pt too wide) in paragraph at lines 96--97
+\OT1/cmr/m/n/8 si-
+ []
+
+
+Overfull \hbox (13.69464pt too wide) in paragraph at lines 96--97
+\OT1/cmr/m/n/8 dad
+ []
+
+
+Overfull \hbox (13.69464pt too wide) in paragraph at lines 96--97
+\OT1/cmr/m/n/8 me-
+ []
+
+
+Overfull \hbox (9.91681pt too wide) in paragraph at lines 96--97
+\OT1/cmr/m/n/8 di-
+ []
+
+
+Overfull \hbox (15.81967pt too wide) in paragraph at lines 96--97
+\OT1/cmr/m/n/8 ante
+ []
+
+
+Overfull \hbox (6.6112pt too wide) in paragraph at lines 96--97
+\OT1/cmr/m/n/8 la
+ []
+
+
+Overfull \hbox (14.64604pt too wide) in paragraph at lines 96--97
+\OT1/cmr/m/n/8 red-
+ []
+
+
+Overfull \hbox (9.91681pt too wide) in paragraph at lines 96--97
+\OT1/cmr/m/n/8 di-
+ []
+
+
+Overfull \hbox (14.17381pt too wide) in paragraph at lines 96--97
+\OT1/cmr/m/n/8 ver-
+ []
+
+
+Overfull \hbox (8.54735pt too wide) in paragraph at lines 96--97
+\OT1/cmr/m/n/8 si-
+ []
+
+
+Overfull \hbox (7.55566pt too wide) in paragraph at lines 96--97
+\OT1/cmr/m/n/8 fi-
+ []
+
+
+Overfull \hbox (18.88916pt too wide) in paragraph at lines 96--97
+\OT1/cmr/m/n/8 cacin
+ []
+
+
+Overfull \hbox (11.3335pt too wide) in paragraph at lines 96--97
+\OT1/cmr/m/n/8 vo-
+ []
+
+
+Overfull \hbox (13.70158pt too wide) in paragraph at lines 96--97
+\OT1/cmr/m/n/8 raz. 
+ []
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.97 				\item U
+                so productivo de la diversidad gracias a componentes espec√≠...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+Missing character: There is no √ in font cmr8!
+Missing character: There is no ≠ in font cmr8!
+
+Overfull \hbox (13.96965pt too wide) in paragraph at lines 97--98
+\OT1/cmr/m/n/8 Uso
+ []
+
+
+Overfull \hbox (15.11827pt too wide) in paragraph at lines 97--98
+\OT1/cmr/m/n/8 pro-
+ []
+
+
+Overfull \hbox (16.05579pt too wide) in paragraph at lines 97--98
+\OT1/cmr/m/n/8 duc-
+ []
+
+
+Overfull \hbox (14.16687pt too wide) in paragraph at lines 97--98
+\OT1/cmr/m/n/8 tivo
+ []
+
+
+Overfull \hbox (8.50012pt too wide) in paragraph at lines 97--98
+\OT1/cmr/m/n/8 de
+ []
+
+
+Overfull \hbox (6.6112pt too wide) in paragraph at lines 97--98
+\OT1/cmr/m/n/8 la
+ []
+
+
+Overfull \hbox (9.91681pt too wide) in paragraph at lines 97--98
+\OT1/cmr/m/n/8 di-
+ []
+
+
+Overfull \hbox (14.17381pt too wide) in paragraph at lines 97--98
+\OT1/cmr/m/n/8 ver-
+ []
+
+
+Overfull \hbox (8.54735pt too wide) in paragraph at lines 97--98
+\OT1/cmr/m/n/8 si-
+ []
+
+
+Overfull \hbox (13.69464pt too wide) in paragraph at lines 97--98
+\OT1/cmr/m/n/8 dad
+ []
+
+
+Overfull \hbox (14.64604pt too wide) in paragraph at lines 97--98
+\OT1/cmr/m/n/8 gra-
+ []
+
+
+Overfull \hbox (13.74187pt too wide) in paragraph at lines 97--98
+\OT1/cmr/m/n/8 cias
+ []
+
+
+Overfull \hbox (4.25006pt too wide) in paragraph at lines 97--98
+\OT1/cmr/m/n/8 a
+ []
+
+
+Overfull \hbox (17.9447pt too wide) in paragraph at lines 97--98
+\OT1/cmr/m/n/8 com-
+ []
+
+
+Overfull \hbox (12.04184pt too wide) in paragraph at lines 97--98
+\OT1/cmr/m/n/8 po-
+ []
+
+
+Overfull \hbox (23.42256pt too wide) in paragraph at lines 97--98
+\OT1/cmr/m/n/8 nentes
+ []
+
+
+Overfull \hbox (9.96404pt too wide) in paragraph at lines 97--98
+\OT1/cmr/m/n/8 es-
+ []
+
+
+Overfull \hbox (15.34744pt too wide) in paragraph at lines 97--98
+\OT1/cmr/m/n/8 pec-
+ []
+
+
+Overfull \hbox (7.55566pt too wide) in paragraph at lines 97--98
+\OT1/cmr/m/n/8 fi-
+ []
+
+
+Overfull \hbox (13.74187pt too wide) in paragraph at lines 97--98
+\OT1/cmr/m/n/8 cas. 
+ []
+
+
+! LaTeX Error: \begin{frame} on input line 72 ended by \end{columns}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.101 		\end{columns}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Environment tcolorbox undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.106 		\begin{tcolorbox}
+                         [colback=white,colframe=blue!30]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.106 		\begin{tcolorbox}[
+                          colback=white,colframe=blue!30]
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no √ in font cmti7!
+Missing character: There is no © in font cmti7!
+Missing character: There is no √ in font cmti7!
+Missing character: There is no ≥ in font cmti7!
+Missing character: There is no √ in font cmr6!
+Missing character: There is no ± in font cmr6!
+Missing character: There is no √ in font cmr6!
+Missing character: There is no ≠ in font cmr6!
+Missing character: There is no ‚ in font cmr6!
+Missing character: There is no Ä in font cmr6!
+Missing character: There is no ì in font cmr6!
+
+! LaTeX Error: \begin{frame} on input line 72 ended by \end{tcolorbox}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.110 		\end{tcolorbox}
+                       
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (128.97089pt too wide) in paragraph at lines 106--111
+[]\OT1/cmr/m/n/6 [colback=white,colframe=blue!30]
+ []
+
+
+Overfull \hbox (7.4888pt too wide) in paragraph at lines 106--111
+\OT1/cmr/m/n/6 A.
+ []
+
+
+Overfull \hbox (26.76633pt too wide) in paragraph at lines 106--111
+\OT1/cmr/m/n/6 Herrera-
+ []
+
+
+Overfull \hbox (25.0052pt too wide) in paragraph at lines 106--111
+\OT1/cmr/m/n/6 Poyatos
+ []
+
+
+Overfull \hbox (3.86107pt too wide) in paragraph at lines 106--111
+\OT1/cmr/m/n/6 y
+ []
+
+
+Overfull \hbox (6.8277pt too wide) in paragraph at lines 106--111
+\OT1/cmr/m/n/6 F.
+ []
+
+
+Overfull \hbox (14.04427pt too wide) in paragraph at lines 106--111
+\OT1/cmr/m/n/6 Her-
+ []
+
+
+Overfull \hbox (14.83315pt too wide) in paragraph at lines 106--111
+\OT1/cmr/m/n/6 rera,
+ []
+
+
+Overfull \hbox (9.43817pt too wide) in paragraph at lines 106--111
+\OT1/cmr/m/it/6 Al-
+ []
+
+
+Overfull \hbox (9.4477pt too wide) in paragraph at lines 106--111
+\OT1/cmr/m/it/6 go-
+ []
+
+
+Overfull \hbox (16.95016pt too wide) in paragraph at lines 106--111
+\OT1/cmr/m/it/6 ritmo
+ []
+
+
+Overfull \hbox (13.06677pt too wide) in paragraph at lines 106--111
+\OT1/cmr/m/it/6 gen-
+ []
+
+
+Overfull \hbox (11.12866pt too wide) in paragraph at lines 106--111
+\OT1/cmr/m/it/6 tico
+ []
+
+
+Overfull \hbox (14.74774pt too wide) in paragraph at lines 106--111
+\OT1/cmr/m/it/6 equi-
+ []
+
+
+Overfull \hbox (6.6286pt too wide) in paragraph at lines 106--111
+\OT1/cmr/m/it/6 li-
+ []
+
+
+Overfull \hbox (16.77396pt too wide) in paragraph at lines 106--111
+\OT1/cmr/m/it/6 brado
+ []
+
+
+Overfull \hbox (10.50485pt too wide) in paragraph at lines 106--111
+\OT1/cmr/m/it/6 con
+ []
+
+
+Overfull \hbox (8.39053pt too wide) in paragraph at lines 106--111
+\OT1/cmr/m/it/6 di-
+ []
+
+
+Overfull \hbox (12.09772pt too wide) in paragraph at lines 106--111
+\OT1/cmr/m/it/6 ver-
+ []
+
+
+Overfull \hbox (7.68576pt too wide) in paragraph at lines 106--111
+\OT1/cmr/m/it/6 si-
+ []
+
+
+Overfull \hbox (15.98108pt too wide) in paragraph at lines 106--111
+\OT1/cmr/m/it/6 cacin
+ []
+
+
+Overfull \hbox (9.4477pt too wide) in paragraph at lines 106--111
+\OT1/cmr/m/it/6 vo-
+ []
+
+
+Overfull \hbox (11.29451pt too wide) in paragraph at lines 106--111
+\OT1/cmr/m/it/6 raz\OT1/cmr/m/n/6 .
+ []
+
+
+Overfull \hbox (15.44424pt too wide) in paragraph at lines 106--111
+\OT1/cmr/m/n/6 Con-
+ []
+
+
+Overfull \hbox (16.42755pt too wide) in paragraph at lines 106--111
+\OT1/cmr/m/n/6 greso
+ []
+
+
+Overfull \hbox (10.33873pt too wide) in paragraph at lines 106--111
+\OT1/cmr/m/n/6 Es-
+ []
+
+
+Overfull \hbox (13.49982pt too wide) in paragraph at lines 106--111
+\OT1/cmr/m/n/6 paol
+ []
+
+
+Overfull \hbox (7.33325pt too wide) in paragraph at lines 106--111
+\OT1/cmr/m/n/6 de
+ []
+
+
+Overfull \hbox (18.87753pt too wide) in paragraph at lines 106--111
+\OT1/cmr/m/n/6 Meta-
+ []
+
+
+Overfull \hbox (24.70525pt too wide) in paragraph at lines 106--111
+\OT1/cmr/m/n/6 heursti-
+ []
+
+
+Overfull \hbox (11.98317pt too wide) in paragraph at lines 106--111
+\OT1/cmr/m/n/6 cas,
+ []
+
+
+Overfull \hbox (9.98875pt too wide) in paragraph at lines 106--111
+\OT1/cmr/m/n/6 Al-
+ []
+
+
+Overfull \hbox (9.83318pt too wide) in paragraph at lines 106--111
+\OT1/cmr/m/n/6 go-
+ []
+
+
+Overfull \hbox (10.38875pt too wide) in paragraph at lines 106--111
+\OT1/cmr/m/n/6 rit-
+ []
+
+
+Overfull \hbox (12.59427pt too wide) in paragraph at lines 106--111
+\OT1/cmr/m/n/6 mos
+ []
+
+
+Overfull \hbox (14.74423pt too wide) in paragraph at lines 106--111
+\OT1/cmr/m/n/6 Evo-
+ []
+
+
+Overfull \hbox (8.66655pt too wide) in paragraph at lines 106--111
+\OT1/cmr/m/n/6 lu-
+ []
+
+
+Overfull \hbox (15.26091pt too wide) in paragraph at lines 106--111
+\OT1/cmr/m/n/6 tivos
+ []
+
+
+Overfull \hbox (3.86107pt too wide) in paragraph at lines 106--111
+\OT1/cmr/m/n/6 y
+ []
+
+
+Overfull \hbox (19.54974pt too wide) in paragraph at lines 106--111
+\OT1/cmr/m/n/6 Bioin-
+ []
+
+
+Overfull \hbox (11.59428pt too wide) in paragraph at lines 106--111
+\OT1/cmr/m/n/6 spi-
+ []
+
+
+Overfull \hbox (9.05542pt too wide) in paragraph at lines 106--111
+\OT1/cmr/m/n/6 ra-
+ []
+
+
+Overfull \hbox (10.64986pt too wide) in paragraph at lines 106--111
+\OT1/cmr/m/n/6 dos
+ []
+
+
+Overfull \hbox (21.93863pt too wide) in paragraph at lines 106--111
+\OT1/cmr/m/n/6 MAEB
+ []
+
+
+Overfull \hbox (16.77753pt too wide) in paragraph at lines 106--111
+\OT1/cmr/m/n/6 2015,
+ []
+
+
+Overfull \hbox (10.2221pt too wide) in paragraph at lines 106--111
+\OT1/cmr/m/n/6 pp.
+ []
+
+
+Overfull \hbox (6.16656pt too wide) in paragraph at lines 106--111
+\OT1/cmr/m/n/6 9-
+ []
+
+
+Overfull \hbox (9.4443pt too wide) in paragraph at lines 106--111
+\OT1/cmr/m/n/6 18,
+ []
+
+
+Overfull \hbox (16.77753pt too wide) in paragraph at lines 106--111
+\OT1/cmr/m/n/6 2015.
+ []
+
+! Undefined control sequence.
+l.117 	\setbeamertemplate
+                         {headline}{
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.117 	\setbeamertemplate{h
+                           eadline}{
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+
+! LaTeX Error: Environment beamercolorbox undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.118 		\begin{beamercolorbox}
+                              [sep=10pt]{title}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Missing character: There is no [ in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ] in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+! Undefined control sequence.
+l.120 			\usebeamerfont
+                       {title} Motivaci√≥n: B√∫squeda de un algoritmo m√°s e...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no √ in font nullfont!
+Missing character: There is no ≥ in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no : in font nullfont!
+Missing character: There is no B in font nullfont!
+Missing character: There is no √ in font nullfont!
+Missing character: There is no ∫ in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no q in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no √ in font nullfont!
+Missing character: There is no ° in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no z in font nullfont!
+Missing character: There is no . in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 117--121
+ [] 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.124 			A
+          lgoritmos Mem√©ticos
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no A in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no √ in font nullfont!
+Missing character: There is no © in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no s in font nullfont!
+
+! LaTeX Error: \begin{document} ended by \end{beamercolorbox}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.125 		\end{beamercolorbox}
+                            
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.128 	\begin{frame}{}
+                      
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 128--129
+[][] 
+ []
+
+! Undefined control sequence.
+l.136 		\includegraphics
+                        [width=7cm]{./Images/Diversity/AM/png/ts225.png}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.136 		\includegraphics[
+                         width=7cm]{./Images/Diversity/AM/png/ts225.png}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (210.99854pt too wide) in paragraph at lines 136--137
+ []\OT1/cmr/m/n/9 [width=7cm]./Images/Diversity/AM/png/ts225.png 
+ []
+
+
+! LaTeX Error: Environment tcolorbox undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.140 		\begin{tcolorbox}
+                         [colback=blue!5,colframe=blue!30]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.140 		\begin{tcolorbox}[
+                          colback=blue!5,colframe=blue!30]
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no √ in font cmbx9!
+Missing character: There is no ≥ in font cmbx9!
+Missing character: There is no √ in font cmbx9!
+Missing character: There is no © in font cmbx9!
+
+! LaTeX Error: \begin{frame} on input line 128 ended by \end{tcolorbox}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.143 		\end{tcolorbox}
+                       
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (139.03725pt too wide) in paragraph at lines 140--144
+ []\OT1/cmr/m/n/9 [colback=blue!5,colframe=blue!30] 
+ []
+
+
+Overfull \hbox (26.45665pt too wide) in paragraph at lines 140--144
+ \OT1/cmr/bx/n/9 Prob- 
+ []
+
+
+Overfull \hbox (21.89694pt too wide) in paragraph at lines 140--144
+ \OT1/cmr/bx/n/9 lema 
+ []
+
+
+Overfull \hbox (10.80333pt too wide) in paragraph at lines 140--144
+ \OT1/cmr/bx/n/9 de 
+ []
+
+
+Overfull \hbox (8.1353pt too wide) in paragraph at lines 140--144
+ \OT1/cmr/bx/n/9 la 
+ []
+
+
+Overfull \hbox (12.42484pt too wide) in paragraph at lines 140--144
+ \OT1/cmr/bx/n/9 di- 
+ []
+
+
+Overfull \hbox (18.15466pt too wide) in paragraph at lines 140--144
+ \OT1/cmr/bx/n/9 ver- 
+ []
+
+
+Overfull \hbox (10.70905pt too wide) in paragraph at lines 140--144
+ \OT1/cmr/bx/n/9 si- 
+ []
+
+
+Overfull \hbox (17.01016pt too wide) in paragraph at lines 140--144
+ \OT1/cmr/bx/n/9 dad 
+ []
+
+
+Overfull \hbox (10.80333pt too wide) in paragraph at lines 140--144
+ \OT1/cmr/bx/n/9 de 
+ []
+
+
+Overfull \hbox (8.1353pt too wide) in paragraph at lines 140--144
+ \OT1/cmr/bx/n/9 la 
+ []
+
+
+Overfull \hbox (39.19739pt too wide) in paragraph at lines 140--144
+ \OT1/cmr/bx/n/9 poblacin 
+ []
+
+
+Overfull \hbox (10.80333pt too wide) in paragraph at lines 140--144
+ \OT1/cmr/bx/n/9 en 
+ []
+
+
+Overfull \hbox (11.68526pt too wide) in paragraph at lines 140--144
+ \OT1/cmr/bx/n/9 al- 
+ []
+
+
+Overfull \hbox (14.19983pt too wide) in paragraph at lines 140--144
+ \OT1/cmr/bx/n/9 go- 
+ []
+
+
+Overfull \hbox (15.0429pt too wide) in paragraph at lines 140--144
+ \OT1/cmr/bx/n/9 rit- 
+ []
+
+
+Overfull \hbox (18.40062pt too wide) in paragraph at lines 140--144
+ \OT1/cmr/bx/n/9 mos 
+ []
+
+
+Overfull \hbox (32.99054pt too wide) in paragraph at lines 140--144
+ \OT1/cmr/bx/n/9 memti- 
+ []
+
+
+Overfull \hbox (17.2173pt too wide) in paragraph at lines 140--144
+ \OT1/cmr/bx/n/9 cos. 
+ []
+
+! Undefined control sequence.
+l.150 	\setbeamertemplate
+                         {headline}{
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.150 	\setbeamertemplate{h
+                           eadline}{
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+
+! LaTeX Error: Environment beamercolorbox undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.151 		\begin{beamercolorbox}
+                              [sep=10pt]{title}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Missing character: There is no [ in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ] in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+! Undefined control sequence.
+l.153 			\usebeamerfont
+                       {title} Objetivo: B√∫squeda de un algoritmo mem√©tico...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no O in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no j in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no : in font nullfont!
+Missing character: There is no B in font nullfont!
+Missing character: There is no √ in font nullfont!
+Missing character: There is no ∫ in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no q in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no √ in font nullfont!
+Missing character: There is no © in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no q in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no √ in font nullfont!
+Missing character: There is no ≥ in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no . in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 150--154
+ [] 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.157 			A
+          lgoritmos Mem√©ticos
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no A in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no √ in font nullfont!
+Missing character: There is no © in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no s in font nullfont!
+
+! LaTeX Error: \begin{document} ended by \end{beamercolorbox}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.158 		\end{beamercolorbox}
+                            
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.161 	\begin{frame}{}
+                      
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 161--162
+[][] 
+ []
+
+! Undefined control sequence.
+l.169 		\includegraphics
+                        [width=7cm]{./Images/Diversity/AM/png/ts225.png}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.169 		\includegraphics[
+                         width=7cm]{./Images/Diversity/AM/png/ts225.png}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (210.99854pt too wide) in paragraph at lines 169--170
+ []\OT1/cmr/m/n/9 [width=7cm]./Images/Diversity/AM/png/ts225.png 
+ []
+
+
+! LaTeX Error: Environment tcolorbox undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.173 		\begin{tcolorbox}
+                         [colback=blue!5,colframe=blue!30]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.173 		\begin{tcolorbox}[
+                          colback=blue!5,colframe=blue!30]
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no √ in font cmbx9!
+Missing character: There is no ≥ in font cmbx9!
+Missing character: There is no √ in font cmbx9!
+Missing character: There is no © in font cmbx9!
+
+! LaTeX Error: \begin{frame} on input line 161 ended by \end{tcolorbox}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.176 		\end{tcolorbox}
+                       
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (139.03725pt too wide) in paragraph at lines 173--177
+ []\OT1/cmr/m/n/9 [colback=blue!5,colframe=blue!30] 
+ []
+
+
+Overfull \hbox (26.45665pt too wide) in paragraph at lines 173--177
+ \OT1/cmr/bx/n/9 Prob- 
+ []
+
+
+Overfull \hbox (21.89694pt too wide) in paragraph at lines 173--177
+ \OT1/cmr/bx/n/9 lema 
+ []
+
+
+Overfull \hbox (10.80333pt too wide) in paragraph at lines 173--177
+ \OT1/cmr/bx/n/9 de 
+ []
+
+
+Overfull \hbox (8.1353pt too wide) in paragraph at lines 173--177
+ \OT1/cmr/bx/n/9 la 
+ []
+
+
+Overfull \hbox (12.42484pt too wide) in paragraph at lines 173--177
+ \OT1/cmr/bx/n/9 di- 
+ []
+
+
+Overfull \hbox (18.15466pt too wide) in paragraph at lines 173--177
+ \OT1/cmr/bx/n/9 ver- 
+ []
+
+
+Overfull \hbox (10.70905pt too wide) in paragraph at lines 173--177
+ \OT1/cmr/bx/n/9 si- 
+ []
+
+
+Overfull \hbox (17.01016pt too wide) in paragraph at lines 173--177
+ \OT1/cmr/bx/n/9 dad 
+ []
+
+
+Overfull \hbox (10.80333pt too wide) in paragraph at lines 173--177
+ \OT1/cmr/bx/n/9 de 
+ []
+
+
+Overfull \hbox (8.1353pt too wide) in paragraph at lines 173--177
+ \OT1/cmr/bx/n/9 la 
+ []
+
+
+Overfull \hbox (39.19739pt too wide) in paragraph at lines 173--177
+ \OT1/cmr/bx/n/9 poblacin 
+ []
+
+
+Overfull \hbox (10.80333pt too wide) in paragraph at lines 173--177
+ \OT1/cmr/bx/n/9 en 
+ []
+
+
+Overfull \hbox (11.68526pt too wide) in paragraph at lines 173--177
+ \OT1/cmr/bx/n/9 al- 
+ []
+
+
+Overfull \hbox (14.19983pt too wide) in paragraph at lines 173--177
+ \OT1/cmr/bx/n/9 go- 
+ []
+
+
+Overfull \hbox (15.0429pt too wide) in paragraph at lines 173--177
+ \OT1/cmr/bx/n/9 rit- 
+ []
+
+
+Overfull \hbox (18.40062pt too wide) in paragraph at lines 173--177
+ \OT1/cmr/bx/n/9 mos 
+ []
+
+
+Overfull \hbox (32.99054pt too wide) in paragraph at lines 173--177
+ \OT1/cmr/bx/n/9 memti- 
+ []
+
+
+Overfull \hbox (17.2173pt too wide) in paragraph at lines 173--177
+ \OT1/cmr/bx/n/9 cos. 
+ []
+
+)
+! Emergency stop.
+<*> Motivation.tex
+                  
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 51 strings out of 493105
+ 623 string characters out of 6137073
+ 56508 words of memory out of 5000000
+ 3602 multiletter control sequences out of 15000+600000
+ 7341 words of font info for 26 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 20i,4n,14p,155b,216s stack positions out of 5000i,500n,10000p,200000b,80000s
+!  ==> Fatal error occurred, no output PDF file produced!

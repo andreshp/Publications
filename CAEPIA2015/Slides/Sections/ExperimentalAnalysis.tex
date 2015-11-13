@@ -1,0 +1,261 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Authors: A. Herrera-Poyatos, F. Herrera
+% Tittle: Algoritmo memético equilibrado con diversificación voraz
+% 							 CAEPIA 2015
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Análisis experimental}
+
+	\subsection*{Tamaño de la población}
+
+		\begin{frame}{Tamaño de la población de AMEDV}
+			\fontsize{6}{7.5}\selectfont					
+			\kern -0.25cm
+			\begin{columns}[c]
+				\column{.7\textwidth}
+				\begin{table}
+					\label{table:tp}
+					\centering
+					\begin{tabular}{llllll}
+						\toprule
+						\textbf{Problema} & \textbf{Óptimo} & \multicolumn{4}{c}{\color{red}\textbf{Media de la}} \\
+						 &  & \multicolumn{4}{c}{\color{red}\textbf{función objetivo}} \\
+						\midrule 
+						& & TP = 8 & TP = 16 & TP = 32 & TP = 64 \\
+						\cmidrule{3-6}
+						eil51    & 426    & \textbf{426} & 426.167 & 426.867 & \underline{426.933} \\
+						berlin52 & 7542   & \textbf{7542} & \textbf{7542} & \textbf{7542} & \textbf{7542} \\
+						st70     & 675    & \textbf{675} & \textbf{675} & 676 & \underline{677.767} \\
+						eil76    & 538    & \textbf{538} & \textbf{538} & 538.133 & \underline{538.333} \\
+						pr76     & 108159 & \textbf{108159} & \textbf{108159} & \textbf{108159} & \textbf{108159} \\
+						kroA100  & 21282  & \textbf{21282} & \textbf{21282} & \textbf{21282} & \underline{21282.8} \\
+						rd100    & 7910   & \textbf{7910} & \textbf{7910} & \textbf{7910} & \underline{7916.53} \\
+						eil101   & 629    & \textbf{629} & \textbf{629} & 629.533 & \underline{630.267} \\
+						lin105   & 14379  & \textbf{14379} & \textbf{14379} & \textbf{14379} & \textbf{14379} \\
+						ch150    & 6528   & \textbf{6529.73} & 6541.5 & 6547.3 & \underline{6549.63} \\
+						rat195   & 2323   & \textbf{2326.67} & 2329.4 & 2331.83 & \underline{2334.47} \\
+						d198     & 15780  & \textbf{15794.7} & 15801.4 & 15805.5 & \underline{15815.3} \\
+						ts225    & 126643 & \underline{127036} & 126794 & \textbf{126791} & 126895 \\
+						a280     & 2579   & \textbf{2582.8} & \textbf{2582.8} & 2590.8 & \underline{2596.33} \\
+						lin318   & 42029  & 42349.4 & \textbf{42300} & 42376.4 & \underline{42444.9} \\
+						fl417    & 11861  & \underline{11948.8} & \textbf{11940.8} & 11948.7 & 11945.6 \\
+						pcb442   & 50778  & 51438.2 & \textbf{51257.1} & 51438.3 & \underline{51593.8} \\
+						rat575   & 6773   & 6878.73 & 6874.23 & \textbf{6869.27} & \underline{6878.77} \\
+						\midrule
+						& & 13 / 2 & 12 / 0 & 8 / 0 & 3 / 13 \\
+						\cmidrule[0.3mm]{3-6}
+					\end{tabular}
+				\end{table}
+				
+				\column{0.35\textwidth}
+				\fontsize{8}{8}\selectfont
+				\kern -0.5cm
+				\textbf{\ \ \ \ \ Experimentación sobre el problema del viajante de comercio.}
+				
+				\kern 3mm
+				\fontsize{7}{8}\selectfont
+				\textbf{Componentes:}
+
+				\fontsize{8}{8}\selectfont
+				\begin{itemize}
+					\item Operador de cruce: OX
+					\item Búsqueda local: Lin-Kernighan 
+				\end{itemize}
+
+				\kern 3mm
+				
+				\fontsize{7}{8}\selectfont
+				\textbf{Tiempo de ejecución:} 
+				
+				\fontsize{8}{8}\selectfont
+				$0.1 N$ segundos.
+
+				\kern 3mm
+
+				\fontsize{7}{8}\selectfont
+				\textbf{Media de 30 ejecuciones.}
+
+				\kern 3mm
+
+				\fontsize{8}{8}\selectfont
+				\begin{tcolorbox}[colback=blue!5,colframe=blue!30]
+					\color{blue!80}\textbf{Mejor tamaño de la \\ población: 16} 
+				\end{tcolorbox}
+
+			\end{columns}
+		\end{frame}
+	
+	\subsection*{AMEDV vs AGEDV}	
+
+		\begin{frame}{Comparación entre AMEDV y AGEDV}
+			\fontsize{6}{8}\selectfont					
+			\kern -0.25cm
+			\begin{columns}[c]
+				\column{.7\textwidth}
+				\begin{table}[H]
+			        \label{table:agedv}
+		        	\centering
+		        	\begin{tabular}{llll|ll}
+		        		\toprule
+		        		\textbf{Problema} & \textbf{Óptimo} & \multicolumn{2}{c}{\color{red}\textbf{Media de la}} &   \multicolumn{2}{c}{\color{red}\textbf{Número de soluciones}} \\
+		        		&  & \multicolumn{2}{c}{\color{red}\textbf{función objetivo}} & \multicolumn{2}{c}{\color{red}\textbf{evaluadas}}\\
+		        		\midrule
+		        		& & AMEDV & AGEDV & AMEDV & AGEDV \\
+		        		\cmidrule{3-4} \cmidrule{5-6}
+		        		eil51    & 426    & \textbf{426.167} & \underline{427.267} & 128759  & 1692820 \\
+		        		berlin52 & 7542   & \textbf{7542}    & \underline{7572.57} & 46387.8 & 1731320 \\
+		        		st70     & 675    & \textbf{675}     & \underline{682.067} & 114622  & 1674870 \\
+		        		eil76    & 538    & \textbf{538}     & \underline{549.5}   & 127619  & 1740730 \\
+		        		pr76     & 108159 & \textbf{108159}  & \underline{109395}  & 60987.1 & 1377370 \\
+		        		kroA100  & 21282  & \textbf{21282}   & \underline{21352.5} & 51970.3 & 14260   \\
+		        		rd100    & 7910   & \textbf{7910}    & \underline{7919.47} & 54622.7 & 1473510 \\
+		        		eil101   & 629    & \textbf{629}     & \underline{633.3}   & 92876.7 & 1407060 \\
+		        		lin105   & 14379  & \textbf{14379}   & \underline{14430.5} & 34887.5 & 538391  \\
+		        		ch150    & 6528   & \textbf{6541.5}  & \underline{6578.67} & 50950   & 1270930 \\
+		        		rat195   & 2323   & \textbf{2329.4}  & \underline{2386.83} & 47671   & 379744  \\
+		        		d198     & 15780  & \textbf{15801.4} & \underline{16053.9} & 16071.4 & 362111  \\
+		        		ts225    & 126643 & \textbf{126794}  & \underline{127427}  & 53980.6 & 724328  \\
+		        		a280     & 2579   & \textbf{2582.8}  & \underline{2704.5}  & 45372.8 & 612916  \\
+		        		lin318   & 42029  & \textbf{42300}   & \underline{43739.5} & 10964.5 & 485157  \\
+		        		fl417    & 11861  & \textbf{11940.8} & \underline{12303.9} & 5499.87 & 422658  \\
+		        		pcb442   & 50778  & \textbf{51257.1} & \underline{55502}   & 16309   & 231215  \\
+		        		rat575   & 6773   & \textbf{6874.23} & \underline{7670.97} & 3522.03 & 125132  \\
+		        		\bottomrule
+		        	\end{tabular}
+				\end{table}
+
+				\column{0.35\textwidth}
+				\fontsize{8}{8}\selectfont
+				
+				\textbf{Tamaño de población}
+				\begin{itemize}
+					\item AMEDV: 16
+					\item AGEDV: 64 
+				\end{itemize}
+
+				\kern 3mm
+
+				\fontsize{7}{8}\selectfont								
+				\begin{tcolorbox}[colback=blue!5,colframe=blue!30]
+					\color{blue!80} \textbf{AMEDV evalúa entre 10 y 100 veces menos soluciones que AGEDV.}
+				\end{tcolorbox}
+
+			\end{columns}
+				
+		\end{frame}
+				
+	\subsection*{Comparación con el estado del arte}	
+		
+		\begin{frame}{\fontsize{14}{8}\selectfont Comparación con otras heurísticas basadas en búsqueda local}
+			\fontsize{6}{8}\selectfont					
+			\kern -0.25cm
+			\begin{columns}[c]
+				\column{.7\textwidth}
+				\begin{table}[H]
+					\label{table:ls-media}
+					\centering
+					\begin{tabular}{llllll}
+						\toprule
+						\textbf{Problema} & \textbf{Óptimo} & \multicolumn{4}{c}{\color{red}\textbf{Media de la}} \\
+						&  & \multicolumn{4}{c}{\color{red}\textbf{función objetivo}} \\
+						\midrule
+						& & AMEDV & AM & GRASP & IG \\
+						\cmidrule{3-6}
+						eil51    & 426    & \textbf{426.167} & \underline{433.8} & 432.133 & 432.1 \\
+						berlin52 & 7542   & \textbf{7542} & 7628.8 & \underline{7670.43} & 7665.73 \\
+						st70     & 675    & \textbf{675} & 689.567 & \underline{692.433} & 692.133 \\
+						eil76    & 538    & \textbf{538} & 548 & \underline{551.867} & 550.733 \\
+						pr76     & 108159 & \textbf{108159} & 109382 & 110083 & \underline{110544} \\
+						kroA100  & 21282  & \textbf{21282} & 21408 & 21469.2 & \underline{21475.8} \\
+						rd100    & 7910   & \textbf{7910} & 7951.87 & 8033.37 & \underline{8061.1} \\
+						eil101   & 629    & \textbf{629} & 641.533 & 647.833 & \underline{648.267} \\
+						lin105   & 14379  & \textbf{14379} & 14482.7 & 14551.6 & \underline{14569.7} \\
+						ch150    & 6528   & \textbf{6541.5} & 6575.73 & 6642.1 & \underline{6671.73} \\
+						rat195   & 2323   & \textbf{2329.4} & 2349.37 & \underline{2373.23} & 2369.23 \\
+						d198     & 15780  & \textbf{15801.4} & 15883.3 & \underline{16015} & 15981.3 \\
+						ts225    & 126643 & \textbf{126794} & 129022 & 129865 & \underline{130035} \\
+						a280     & 2579   & \textbf{2582.8} & 2637.43 & 2659.3 & \underline{2660.7} \\
+						lin318   & 42029  & \textbf{42300} & 42827.2 & 43068.8 & \underline{43157.7} \\
+						fl417    & 11861  & \textbf{11940.8} & 12041.1 & \underline{12156.8} & 12130.5 \\
+						pcb442   & 50778  & \textbf{51257.1} & 52319.9 & \underline{52589.2} & 52585 \\
+						rat575   & 6773   & \textbf{6874.23} & 6924.53 & 6944.6 & \underline{6951.93} \\
+						\bottomrule
+					\end{tabular}
+				\end{table}
+
+				
+				\column{0.35\textwidth}
+				\fontsize{8}{8}\selectfont
+				
+				\textbf{Tamaño de población}
+				\begin{itemize}
+					\item AMEDV: 16
+					\item AM: 64 
+				\end{itemize}
+				
+				\kern 3mm
+				
+				\fontsize{6}{8}\selectfont								
+				\begin{tcolorbox}[colback=blue!5,colframe=blue!30]
+					\color{blue!80} \textbf{AMEDV combina lo mejor de los tres modelos: \\ Esquema evolutivo + \\ Soluciones voraces.}
+				\end{tcolorbox}
+
+				\begin{tcolorbox}[colback=blue!5,colframe=blue!30]
+					\color{blue!80} \textbf{AMEDV es el único modelo que alcanza el óptimo con asiduidad.}
+				\end{tcolorbox}	
+			\end{columns}
+			
+		\end{frame}
+		
+		\begin{frame}{\fontsize{14}{8}\selectfont Comparación con otras heurísticas basadas en búsqueda local}
+			\fontsize{6}{8}\selectfont					
+			\kern -5mm
+			\begin{columns}[c]
+				\column{.7\textwidth}
+		        \begin{table}[H]
+		        	\label{table:ls-llamadas}
+		        	\centering
+		        	\begin{tabular}{lllllll}
+		        		\toprule
+		        		\textbf{Problema} & \multicolumn{4}{c}{\color{red}\textbf{Número total de}} & \multicolumn{2}{c}{\color{red}\textbf{Porcentaje de iteraciones}} \\
+		        		& \multicolumn{4}{c}{\color{red}\textbf{llamadas a la búsqueda }} & \multicolumn{2}{c}{\color{red}\textbf{en las que se aplica}} \\
+		        		& \multicolumn{4}{c}{\color{red}\textbf{local}} & \multicolumn{2}{c}{\color{red}\textbf{la búsqueda local}} \\
+		        		\midrule
+		        		& AMEDV & AM & GRASP & IG & AMEDV & AM \\
+		        		\cmidrule{2-5} \cmidrule{6-7}
+		        		eil51    & 7709.63 & 7478.47 & 3309.6 & 3256.13 & 100 & 100    \\
+		        		berlin52 & 2759 & 4054.87 & 1863.37 & 1825.3 & 100 & 100    \\
+		        		st70     & 6869.37 & 6690.73 & 2269.07 & 2247.83 & 100 & 100    \\
+		        		eil76    & 7682.43 & 7756.63 & 2514.67 & 2479.27 & 100 & 100    \\
+		        		pr76     & 3653.83 & 4940.3 & 722.633 & 712.6 & 100 & 100    \\
+		        		kroA100  & 3096.7 & 4161.97 & 942.133 & 931.267 & 100 & 100    \\
+		        		rd100    & 3268.77 & 4268.37 & 854.7 & 843.933 & 100 & 100    \\
+		        		eil101   & 5543.07 & 5605.2 & 1390.47 & 1363.07 & 100 & 100    \\
+		        		lin105   & 2085.3 & 3203.63 & 392.1 & 394.8 & 100 & 100    \\
+		        		ch150    & 3067.7 & 3762.7 & 765.433 & 760 & 100 & 100    \\
+		        		rat195   & 2871.6 & 4212.27 & 394.133 & 393.533 & 100 & 100    \\
+		        		d198     & 968.467 & 1381.4 & 119.9 & 119.567 & 100 & 100    \\
+		        		ts225    & 3284.07 & 4003.83 & 746.9 & 736.4 & 99.9918 & 100    \\
+		        		a280     & 2729.97 & 3423.83 & 240.3 & 239.733 & 100 & 100    \\
+		        		lin318   & 663.267 & 1093.1 & 56.4 & 56.0333 & 99.7588 & 100    \\
+		        		fl417    & 331.533 & 586.8 & 33.0667 & 33.4333 & 100 & 100    \\
+		        		pcb442   & 992.133 & 1765.13 & 74.1 & 74.9333 & 97.6112 & 100    \\
+		        		rat575   & 216.3 & 1059.77 & 28.9667 & 27.8333 & 85.2672 & 100    \\
+		        		\bottomrule
+		        	\end{tabular}
+		        \end{table}				
+				\column{0.35\textwidth}
+
+				\kern 1.5cm
+				
+				\fontsize{6}{8}\selectfont								
+				\begin{tcolorbox}[colback=blue!5,colframe=blue!30]
+					\color{blue!80} \textbf{AM y AMEDV llaman más veces a la búsqueda local gracias a la evolución de la población.}
+				\end{tcolorbox}
+				
+				\begin{tcolorbox}[colback=blue!5,colframe=blue!30]
+					\color{blue!80} \textbf{El operador de cruce introduce soluciones en la población de AMEDV a pesar de la competición entre padres e hijos.}
+				\end{tcolorbox}	
+			\end{columns}
+			
+		\end{frame}

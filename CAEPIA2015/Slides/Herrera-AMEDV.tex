@@ -1,0 +1,264 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Authors: A. Herrera-Poyatos, F. Herrera
+% Tittle: Algoritmo memético equilibrado con diversificación voraz
+% 							 CAEPIA 2015
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+% Beamer
+\PassOptionsToPackage{unicode}{hyperref}      % Avoid mistakes with non-ASCII characters.
+\PassOptionsToPackage{naturalnames}{hyperref} % tex.stackexchange.com/questions/10555
+\documentclass[compress]{beamer}
+
+% Language
+\usepackage[spanish, es-tabla]{babel} % Translations
+\usepackage[utf8]{inputenc} % Allow UTF-8 characters
+\usepackage{lmodern}        % Sources with arbitrary size
+\usepackage[T1]{fontenc}    % Allow copying and avoid errors
+\uselanguage{Spanish}       % Translations for beamer
+\languagepath{Spanish}      % (tex.stackexchange.com/questions/168208)
+
+% Mathematics
+\usepackage{amsfonts}
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+% Images
+\usepackage{graphicx}                   % Utilizado para insertar gráficos.
+\usepackage{caption}                    % Títulos y leyendas para los gráficos.
+\usepackage{subcaption}                 % Subfiguras.
+\usepackage{wrapfig}
+
+% Algorithms
+\usepackage{algorithm}
+\usepackage{algorithmic}
+\input{./Code/spanishAlgorithmic}
+
+% Graphics
+\usepackage{pgfplots}
+\pgfplotsset{width=7cm,compat=1.8}   % Graphics options
+
+% Color box
+\usepackage{tcolorbox}
+
+% Tables
+\usepackage{booktabs}
+
+% Notes
+\usepackage{todonotes}
+
+% tikz
+\usepackage{tikz}
+\usetikzlibrary{positioning,calc,arrows}
+\usetikzlibrary{mindmap,trees,shadows, shapes}
+\tikzset{ % Generate overlays
+    invisible/.style={opacity=0},
+    visible on/.style={alt={#1{}{invisible}}},
+    alt/.code args={<#1>#2#3}{\alt<#1>{\pgfkeysalso{#2}}{\pgfkeysalso{#3}}},
+}
+
+%----------------------------------------------------------------------------------------
+%	COMMANDS
+%----------------------------------------------------------------------------------------
+
+% Colours
+\definecolor{backg}{HTML}{F2F2F2}    % Background
+\definecolor{title}{HTML}{bdc3d1}    % Titles
+\definecolor{comments}{HTML}{BDBDBD} % Comments
+\definecolor{keywords}{HTML}{08388c} % Keywords
+\definecolor{strings}{HTML}{FA5858}  % Strings
+\definecolor{links}{HTML}{2C2C95}    % Links
+\definecolor{bars}{HTML}{045FB4}     % Bars (graphics)
+
+% New commands
+\newcommand{\importsection}[1]{\input{./Sections/#1}}           % Include sections from sections directory.
+\newcommand{\addspace}{\vspace*{\baselineskip}}                 % Add spaces
+\newcommand{\link}[3]{\href{#1}{\textbf{#2}} - {\small #3}}  % Unique style for references
+\newcommand{\twopartdef}[2]{ % Two parts defintion.
+	$\left\{
+	\begin{array}{l}
+		\text{#1} \\
+		\text{#2}
+	\end{array}
+	\right.$
+}
+% Background block
+\makeatletter
+\newbox\@backgroundblock
+\newenvironment{backgroundblock}[2]{%
+	\global\setbox\@backgroundblock=\vbox\bgroup%
+	\unvbox\@backgroundblock%
+	\vbox to0pt\bgroup\vskip#2\hbox to0pt\bgroup\hskip#1\relax%
+}{\egroup\egroup\egroup}
+\addtobeamertemplate{background}{\box\@backgroundblock}{}
+
+%----------------------------------------------------------------------------------------
+%	THEMES AND DOCUMENT STRUCTURE
+%----------------------------------------------------------------------------------------
+
+% Theme and colour theme
+  \usetheme{Dresden}
+  \usecolortheme{dolphin}
+  \useinnertheme{circles}
+  \setbeamercovered{transparent}
+% Blocks colour
+  \setbeamercolor{block title}{bg=title,fg=links}
+  \setbeamercolor{block body}{bg=backg,fg=black}
+  \setbeamercolor{block title alerted}{fg=red!70!black,bg=title!92!red}
+  \setbeamercolor{block body alerted}{fg=black,bg=backg}
+  \setbeamercolor{block title example}{fg=green!70!black,bg=title!92!green}
+  \setbeamercolor{block body example}{fg=black,bg=backg}
+% Links (tex.stackexchange.com/questions/13423)
+\hypersetup{colorlinks,linkcolor=,urlcolor=links}
+% Remove navigation links (stackoverflow.com/questions/3017030)
+\setbeamertemplate{navigation symbols}{}
+
+% Remove footline  (stackoverflow.com/questions/1435837)
+%\setbeamertemplate{footline}{}
+
+% Avoid warning boxes
+\hfuzz=20pt
+\vfuzz=20pt
+% Avoid warnings in itemize
+\renewcommand\textbullet{\ensuremath{\bullet}}
+
+%----------------------------------------------------------------------------------------
+%	TITLE, AUTHOR AND OTHER INFO
+%----------------------------------------------------------------------------------------
+
+% Define the title page.
+\defbeamertemplate*{title page}{customized}[1][] {
+	
+	\begingroup
+	\centering
+
+	% Top images.
+	\begin{columns}[c]
+
+		\column{.25\textwidth}
+		
+		\includegraphics[width=\textwidth]{./Images/Logos/caepia.png}
+		
+		\column{.65\textwidth}
+
+		\includegraphics[width=\textwidth]{./Images/Wallpapers/CAEPIA2015.png}
+
+	\end{columns}
+
+	% Gray bar after images.	
+	{\color{gray}\rule{\textwidth}{4pt}}
+
+	% Title
+	\begin{beamercolorbox}[sep=2pt,center]{title}
+%		\tikz[remember picture,overlay]\node[opacity=0.3]  {\includegraphics[width=\paperwidth,height=3cm]{./Images/Wallpapers/01.jpg}};
+		
+		\usebeamerfont{title}\textbf{\inserttitle}\par
+	\end{beamercolorbox}
+
+	% Gray bar after title.
+	{\color{gray}\rule{\textwidth}{4pt}}
+	
+	\begin{beamercolorbox}[sep=4pt,center]{author}	
+	  	\usebeamerfont{author}\insertauthor
+    \end{beamercolorbox}
+
+	\begin{tcolorbox}[colback=white,colframe=green!40!black]
+
+	\begin{beamercolorbox}[sep=0pt]{institute}
+
+		\begin{columns}[c]
+
+			\column{.3\textwidth}
+
+			\centering	
+
+		  	\includegraphics[width=1.5cm]{./Images/Logos/ugr.jpg}
+		  	
+		  	\kern 2mm
+		  				
+		  	\includegraphics[width=1cm]{./Images/Logos/decsai.jpg}
+			
+			\column{.4\textwidth}
+	
+			\centering	
+						
+			\usebeamerfont{institute} Research Group on Soft Computing and Information Intelligent Systems (SCI2S)
+	
+			\kern 2mm
+					
+			\url{http://sci2s.ugr.es}
+
+			\kern 2mm
+	
+			\usebeamerfont{institute} Dept. of Computer Science and Articifial Intelligence
+			
+			\kern 2mm
+						
+			\usebeamerfont{institute} University of Granada, Spain
+
+			\column{.3\textwidth}
+
+			\centering	
+				
+			\includegraphics[width=0.8\textwidth]{./Images/Logos/sci2s.png}
+
+		\end{columns}
+	\end{beamercolorbox}
+	\end{tcolorbox}
+
+	\endgroup
+    \vfill	
+}
+
+% Title
+\title{Algoritmo Memético Equilibrado \\ con Diversificación Voraz}
+
+% Authors, e-mails and addresses.
+\author[Andrés Herrera-Poyatos, Francisco Herrera]{
+	Andrés Herrera-Poyatos, Francisco Herrera \texorpdfstring{\\
+		\href{mailto:andreshp9@gmail.com}{andreshp9@gmail.com}, \href{mailto:herrera@decsai.ugr.es}{herrera@decsai.ugr.es}
+	}{}
+}
+
+% Date
+\date{10 de Noviembre de 2015}
+
+%----------------------------------------------------------------------------------------
+%	SLIDES STRUCTURE
+%----------------------------------------------------------------------------------------
+
+\begin{document}
+
+	% Title page.
+	\begin{frame}[plain]
+		\titlepage
+	\end{frame}
+
+	% Work motivation. Population diverisity. Target.
+	\importsection{Motivation.tex}
+
+	% Index.
+	\begin{frame}{Índice}
+		\hypertarget{index}{}
+		\tableofcontents
+	\end{frame}
+	
+	% Genetic Algorithm with Diversity Equilibrium based on Greedy Diversification.
+	\importsection{AGEDV.tex}
+
+	% Memetic algorithms.
+	\importsection{MemeticAlgorithms.tex}
+
+	% Menetic Algorithm with Diversity Equilibrium based on Greedy Diversification.
+	\importsection{AMEDV.tex}
+
+	% Experimental analysis.
+	\importsection{ExperimentalAnalysis.tex}
+
+	% Conclusion.
+	\importsection{Conclusion.tex}
+	
+\end{document}

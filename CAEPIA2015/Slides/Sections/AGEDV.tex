@@ -1,0 +1,90 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Authors: A. Herrera-Poyatos, F. Herrera
+% Tittle: Algoritmo memético equilibrado con diversificación voraz
+% 							 CAEPIA 2015
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section[AGEDV]{Algoritmo Genético Equilibrado con Diversificación Voraz}
+
+	\subsection*{Diversificación voraz}
+
+		\begin{frame}{Diversificación voraz: hibridación con algoritmos voraces aleatorizados}
+
+			\fontsize{8}{10}\selectfont
+
+			\begin{tcolorbox}[colback=blue!5,colframe=blue!30]
+				\centering
+				\textbf{Idea:} Sustituir los cromosomas de la población que sean similares a otros por nuevos cromosomas voraces.	
+			\end{tcolorbox}
+
+			\begin{tikzpicture}[
+				every node/.style={ellipse,inner sep=4pt, text width=2cm, align=center, node distance=2cm}]
+				
+				\node [fill=blue!20] (i) {Inicializar \\ $P$};
+				\node [fill=blue!40, right = of $(i)$] (e) {Evolucionar \\ $P$};
+				\node [fill=blue!60, right= of $(e)$] (dv) {Diversificación voraz};
+				
+				\path[every node/.style={font=\sffamily\small}]
+				(i) edge [->, >=stealth', line width=0.5mm] node [right] {} (e)
+				(e) edge [->, >=stealth', bend right, line width=0.5mm] node [right] {} (dv)
+				(dv) edge [->, >=stealth', bend right, line width=0.5mm] node [left] {} (e);
+			\end{tikzpicture}
+
+			
+			\textbf{Algoritmos voraces aleatorizados:}
+
+			\begin{itemize}
+				\item Producen cromosomas diversos y de calidad.
+				\item Sinergia con la operación de cruce
+			\end{itemize}
+
+
+			\begin{tcolorbox}[colback=blue!5,colframe=blue!30]
+				\centering
+				\textbf{Soluciona el problema de la diversidad}	
+			\end{tcolorbox}
+
+		\end{frame}
+
+	\subsection*{Otras componentes}
+
+		\begin{frame}{Componentes de AGEDV}
+	
+			\fontsize{8}{10}\selectfont
+			\kern -0.8cm
+			\begin{tikzpicture}[
+				every node/.style={circle, inner sep=1pt, text width=1.8cm, align=center, node distance=2cm}]
+				
+				\node [fill=blue!15] (i) {Inicializar $P$};
+				\node [fill=blue!25, right = of $(i)$] (s) {Selección};
+				\node [fill=blue!55, right = 5cm of $(s)$] (co) {Competición};
+				\node [fill=blue!40, above = 0.3cm of {$(s)!0.5!(co)$}] (c) {Cruce};
+				\node [fill=blue!70, below = 0.3cm of {$(s)!0.5!(co)$}] (dv) {Diversificación voraz};
+				
+				\path[every node/.style={font=\sffamily\small}]
+				(i) edge [->, >=stealth', line width=0.5mm] node {} (s)
+				(s) edge [->, >=stealth', line width=0.5mm] node {} (c)
+				(c) edge [->, >=stealth', line width=0.5mm] node {} (co);
+		
+				\path[every node/.style={font=\sffamily\small}]
+				(co) edge [->, >=stealth', line width=0.5mm] node {} (dv);
+		
+				\path[every node/.style={font=\sffamily\small}]
+				(dv) edge [->, >=stealth', line width=0.5mm] node {} (s);
+			
+			\end{tikzpicture}
+
+			\begin{itemize}
+				\item\textbf{Selección aleatoria adyacente:} 			\fontsize{6}{10}\selectfont \twopartdef{Se ordena aleatoriamente la población.} {Se selecciona las parejas de cromosomas adyacentes.}
+				\fontsize{8}{10}\selectfont
+				\item Cada pareja genera un hijo.
+				\item \textbf{Competición entre padres e hijos.} Cada hijo compite con su padre directo.
+			\end{itemize}
+
+			\begin{tcolorbox}[colback=blue!5,colframe=blue!30]
+				\centering
+				\fontsize{10}{10}\selectfont
+				\textbf{Buscamos la sinergia entre las componentes.}	
+			\end{tcolorbox}
+
+		\end{frame}
